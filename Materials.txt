@@ -1,0 +1,648 @@
+-1	None	All
+7347	Aloe	Cooking
+5419	Amanita Mushroom	Alchemy, Cooking
+5438	Big Amanita Mushroom	Alchemy
+5462	High-quality Amanita Mushroom	Alchemy
+5482	Special Amanita Mushroom	Alchemy
+5418	Ancient Mushroom	Alchemy, Cooking
+5437	Big Ancient Mushroom	Alchemy
+5461	High-quality Ancient Mushroom	Alchemy
+5481	Special Ancient Mushroom	Alchemy
+7313	Apple	Cooking
+7316	Banana	Cooking
+7314	Cherry	Cooking
+7307	Grape	Cooking
+7315	Pear	Cooking
+7317	Pineapple	Cooking
+7304	Strawberry	Cooking
+7329	High-quality Grape	Cooking
+7321	High-quality Strawberry	Cooking
+7341	Special Grape	Cooking
+7322	Special Strawberry	Cooking
+9350	Aromatic Chanterelle Risotto	Cooking
+5408	Arrow Mushroom	Alchemy, Cooking
+5427	Big Arrow Mushroom	Alchemy
+5451	High-quality Arrow Mushroom	Alchemy
+5471	Special Arrow Mushroom	Alchemy
+9018	Base Sauce	Cooking
+9073	Bean Sprouts	Cooking
+7905	Pork	Cooking
+7912	Bear Meat	Cooking
+7906	Beef	Cooking
+7901	Deer Meat	Cooking
+7903	Fox Meat	Cooking
+7925	Gazelle Meat	Cooking
+7957	Goat Meat	Cooking
+7902	Lamb Meat	Cooking
+7910	Raccoon Meat	Cooking
+7904	Rhino Meat	Cooking
+7911	Weasel Meat	Cooking
+7913	Wolf Meat	Cooking
+9213	Beer	Cooking
+9283	Cold Draft Beer	Cooking
+9325	Delotia Pudding	Cooking
+9326	Blood Red Delotia Pudding	Cooking
+9422	Dark Pudding	Cooking
+9448	Bloody Dark Pudding	Cooking
+9726	Blue Whale Meat	Cooking
+5417	Bluffer Mushroom	Alchemy, Cooking
+5436	Big Bluffer Mushroom	Alchemy
+5460	High-quality Bluffer Mushroom	Alchemy
+5480	Special Bluffer Mushroom	Alchemy
+9402	Boiled Bird Eggs	Cooking
+9436	Appealing Boiled Bird Egg	Cooking
+5532	Bracken	Cooking
+9082	Buckwheat	Cooking
+9063	Butter	Cooking
+9477	Butter-roasted Lobster	Cooking
+9478	Golden Butter-roasted Lobster	Cooking
+7318	Cabbage	Cooking
+7309	Olive	Cooking
+7312	Paprika	Cooking
+7306	Pumpkin	Cooking
+7311	Tomato	Cooking
+7331	High-quality Olive	Cooking
+7334	High-quality Paprika	Cooking
+7328	High-quality Pumpkin	Cooking
+7333	High-quality Tomato	Cooking
+7343	Special Olive	Cooking
+7346	Special Paprika	Cooking
+7340	Special Pumpkin	Cooking
+7345	Special Tomato	Cooking
+5544	Chanterelle	Cooking
+9341	Chanterelle and Potato Stew	Cooking
+9345	Chanterelle Porridge	Cooking
+9349	Chanterelle Risotto	Cooking
+9339	Chanterelle Stew	Cooking
+9062	Cheese	Cooking
+9203	Cheese Gratin	Cooking
+9282	Chewy Cheese Gratin	Cooking
+9268	Cheese Pie	Cooking
+9273	High-quality Cheese Pie	Cooking
+9335	Chicken Breast Salad	Cooking
+9336	Fresh Chicken Breast Salad	Cooking
+7921	Chicken Meat	Cooking
+7953	Bird Meat	Cooking
+7917	Flamingo Meat	Cooking
+7916	Kuku Bird Meat	Cooking
+9310	Chilled Coconut Cocktail	Cooking
+7348	Cinnamon	Cooking
+7360	Citron	Cooking
+9378	Citron Candy	Cooking
+9351	Citron Cider	Cooking
+9355	Citron Juice	Cooking
+9353	Citron Vinegar	Cooking
+9305	Classic Couscous	Cooking
+5410	Cloud Mushroom	Alchemy, Cooking
+5429	Big Cloud Mushroom	Alchemy
+5453	High-quality Cloud Mushroom	Alchemy
+5473	Special Cloud Mushroom	Alchemy
+7026	Coconut	Cooking
+9307	Coconut Cocktail	Cooking
+9309	Coconut Fried Fish	Cooking
+9312	Crispy Coconut Fried Fish	Cooking
+9308	Coconut Pasta	Cooking
+9311	Sweet Coconut Pasta	Cooking
+820815	Cooked Rice	Cooking
+820816	Steaming Cooked Rice	Cooking
+7701	Wild Beehive	Alchemy, Cooking
+7702	Cooking Honey	Alchemy, Cooking
+7703	High-quality Cooking Honey	Alchemy, Cooking
+7704	Top-quality Cooking Honey	Alchemy, Cooking
+9017	Cooking Wine	Cooking
+9023	Matsul	Cooking
+7001	Wheat	Cooking
+7002	Barley	Cooking
+7005	Corn	Cooking
+7003	Potato	Cooking
+7004	Sweet Potato	Cooking
+7006	High-quality Wheat	Cooking
+7007	High-quality Barley	Cooking
+7010	High-quality Corn	Cooking
+7008	High-quality Potato	Cooking
+7009	High-quality Sweet Potato	Cooking
+7011	Special Wheat	Cooking
+7012	Special Barley	Cooking
+7015	Special Corn	Cooking
+7013	Special Potato	Cooking
+7014	Special Sweet Potato	Cooking
+7201	Wheat Dough	Cooking
+7202	Barley Dough	Cooking
+7205	Corn Dough	Cooking
+7203	Potato Dough	Cooking
+7204	Sweet Potato Dough	Cooking
+7101	Wheat Flour	Cooking
+7102	Barley Flour	Cooking
+7105	Corn Flour	Cooking
+7103	Potato Flour	Cooking
+7104	Sweet Potato Flour	Cooking
+9021	Corn Oil	Cooking
+9022	Cottonseed Oil	Cooking
+9220	Couscous	Cooking
+9061	Cream	Cooking
+820832	Crispy Nurungji	Cooking
+9732	Crocodile Meat	Cooking
+7016	Date Palm	Cooking
+9219	Date Palm Wine	Cooking
+9304	Mild Date Palm Wine	Cooking
+9007	Cooking Oil	Cooking
+9016	Deep Frying Oil	Alchemy, Cooking
+9015	Olive Oil	Alchemy, Cooking
+6205	Pig Blood	Alchemy, Cooking
+6201	Deer Blood	Alchemy, Cooking
+6228	Goat Blood	Alchemy, Cooking
+6227	Llama Blood	Alchemy, Cooking
+6206	Ox Blood	Alchemy, Cooking
+6202	Sheep Blood	Alchemy, Cooking
+6215	Waragon Blood	Alchemy, Cooking
+5538	Delotia	Alchemy, Cooking
+5536	High-quality Delotia	Alchemy, Cooking
+5537	Special Delotia	Alchemy, Cooking
+9327	Delotia Juice	Cooking
+9328	Chilled Delotia Juice	Cooking
+9006	Dressing	Cooking
+5409	Dwarf Mushroom	Alchemy, Cooking
+5428	Big Dwarf Mushroom	Alchemy
+5452	High-quality Dwarf Mushroom	Alchemy
+5472	Special Dwarf Mushroom	Alchemy
+9064	Egg	Cooking
+9369	Eilton Sandwich	Cooking
+5413	Emperor Mushroom	Alchemy, Cooking
+5432	Big Emperor Mushroom	Alchemy
+5456	High-quality Emperor Mushroom	Alchemy
+5476	Special Emperor Mushroom	Alchemy
+9057	Essence of Liquor	Alchemy, Cooking
+7018	Fig	Cooking
+9216	Fig Pie	Cooking
+9301	Sweet Fig Pie	Cooking
+9423	Fish Fillet Salad	Cooking
+9449	Fresh Fish Fillet Salad	Cooking
+5415	Fog Mushroom	Alchemy, Cooking
+5434	Big Fog Mushroom	Alchemy
+5458	High-quality Fog Mushroom	Alchemy
+5478	Special Fog Mushroom	Alchemy
+5407	Fortune Teller Mushroom	Alchemy, Cooking
+5426	Big Fortune Teller Mushroom	Alchemy, Cooking
+5450	High-quality Fortune Teller Mushroom	Alchemy, Cooking
+5470	Special Fortune Teller Mushroom	Alchemy, Cooking
+7918	Fragrant Jerky	Cooking
+7919	Well-Dried Jerky	Cooking
+7920	Rare Jerky	Cooking
+7021	Freekeh	Cooking
+9215	Freekeh Snake Stew	Cooking
+9300	Thick Freekeh Snake Stew	Cooking
+9403	Fried Bird	Cooking
+9437	Divine Fried Bird	Cooking
+9331	Stir-Fried Bird	Cooking
+9332	Savory Stir-Fried Bird	Cooking
+9258	Fruit and Vegetable Salad	Cooking
+9285	Fresh Fruit and Vegetable Salad	Cooking
+9376	Fruit Sherbet	Cooking
+9201	Fruit Wine	Cooking
+9280	Luscious Fruit Wine	Cooking
+9735	Fugitive Khalk's Horn	Cooking
+9262	Makgeolli	Cooking
+9279	Full-bodied Makgeolli	Cooking
+820845	Garaetteok	Cooking
+7302	Garlic	Cooking
+7324	High-quality Garlic	Cooking
+7336	Special Garlic	Cooking
+9486	Ghormeh Sabzi	Cooking
+9487	Thick Ghormeh Sabzi	Cooking
+5414	Ghost Mushroom	Alchemy, Cooking
+5433	Big Ghost Mushroom	Alchemy
+5457	High-quality Ghost Mushroom	Alchemy
+5477	Special Ghost Mushroom	Alchemy
+820104	Goosefoot Leaf	Cooking
+9427	Grilled Sausage	Cooking
+9431	Smoked Sausage	Cooking
+9461	Grilled Scorpion	Cooking
+9462	Crispy Grilled Scorpion	Cooking
+7958	Ground Bird Meat	Cooking
+9267	Ham Sandwich	Cooking
+9290	High-quality Ham Sandwich	Cooking
+54004	High-quality Carrot	Cooking
+7361	High-quality Citron	Cooking
+9370	High-quality Eilton Sandwich	Cooking
+820121	High-quality Napa Cabbage	Cooking
+7323	High-quality Pepper	Cooking
+820124	High-quality Radish	Cooking
+820129	High-quality Rice	Cooking
+9206	Honey Wine	Cooking
+9295	Tangy Honey Wine	Cooking
+9266	Honeycomb Cookie	Cooking
+9289	Crispy Honeycomb Cookie	Cooking
+7305	Hot Pepper	Cooking
+7327	High-quality Hot Pepper	Cooking
+7339	Special Hot Pepper	Cooking
+5416	Hump Mushroom	Alchemy, Cooking
+5435	Big Hump Mushroom	Alchemy
+5459	High-quality Hump Mushroom	Alchemy
+5479	Special Hump Mushroom	Alchemy
+820114	Jujube	Cooking
+9463	King of Jungle Hamburg	Cooking
+9464	Jumbo King of Jungle Hamburg	Cooking
+9425	Lean Meat Salad	Cooking
+9435	Top Grade Lean Meat Salad	Cooking
+9005	Leavening Agent	Cooking
+7923	Lion Meat	Cooking
+7908	Lizard Meat	Cooking
+7907	Dinosaur Meat	Cooking
+7909	Worm Meat	Cooking
+7915	Cheetah Dragon Meat	Cooking
+7914	Waragon Meat	Cooking
+7956	Llama Meat	Cooking
+6521	Dried Lobster	Cooking
+6511	Lobster	Cooking
+54003	Lump of Raw Sugar	Cooking
+7955	Marmot Meat	Cooking
+9404	Meat Croquette	Cooking
+9438	Crispy Meat Croquette	Cooking
+9416	Meat Pasta	Cooking
+9444	Spaghetti alla Bolognese	Cooking
+9265	Meat Pie	Cooking
+9288	Lean Meat Pie	Cooking
+9414	Meat Stew	Cooking
+9442	Thick Meat Stew	Cooking
+5548	Mesima	Cooking
+9367	Mesima Rice Wine	Cooking
+9065	Milk	Cooking
+9263	Milk Tea	Cooking
+9277	Smooth Milk Tea	Cooking
+9059	Mineral Water	Alchemy, Cooking
+9083	Mungbean	Cooking
+820120	Napa Cabbage	Cooking
+820831	Nurungji	Cooking
+7020	Nutmeg	Cooking
+9261	Oatmeal	Cooking
+9276	Refined Oatmeal	Cooking
+7303	Onion	Cooking
+7325	High-quality Onion	Cooking
+7337	Special Onion	Cooking
+6515	Oyster	Cooking
+9475	Pan-Fried Oyster	Cooking
+9476	Aromatic Pan-Fried Oyster	Cooking
+820126	Perilla	Cooking
+9072	Perilla Oil	Cooking
+9361	Pickled Citron and Onions	Cooking
+9202	Pickled Vegetables	Cooking
+9281	Sweet and Sour Pickled Vegetables	Cooking
+7017	Pistachio	Cooking
+9471	Prawn Salad	Cooking
+9472	Sweet and Sour Prawn Salad	Cooking
+6656	Purified Water	Alchemy, Cooking
+6651	Distilled Water	Alchemy, Cooking
+820123	Radish	Cooking
+5515	Rainbow Button Mushroom	Cooking
+9483	Rainbow Button Mushroom Cheese Melt	Cooking
+9484	Mild Rainbow Button Mushroom Cheese Melt	Cooking
+9316	Rainbow Button Mushroom Sandwich	Cooking
+9317	Sweet Rainbow Button Mushroom Sandwich	Cooking
+9002	Sugar	Alchemy, Cooking
+9009	Raw Sugar	Alchemy, Cooking
+9080	Red Bean	Cooking
+9077	Red Pepper Powder	Cooking
+9004	Red Sauce	Cooking
+820117	Rice	Cooking
+820118	Rice Flour	Cooking
+9488	Roast Marmot	Cooking
+9489	Golden Roast Marmot	Cooking
+7319	Rose	Cooking
+7320	Tulip	Cooking
+7308	Sunflower	Cooking
+7330	High-quality Sunflower	Cooking
+7342	Special Sunflower	Cooking
+9001	Salt	Alchemy, Cooking
+9008	Sun-Dried Salt	Alchemy, Cooking
+9318	Stir-Fried Bracken	Cooking
+9319	Savory Stir-Fried Bracken	Cooking
+7924	Scorpion Meat	Cooking
+6516	Shrimp	Cooking
+820116	Silver Apricot	Cooking
+9364	Single-brewed Mesima Tea	Cooking
+9490	Skewered Llama Cheese Melt	Cooking
+9491	Spicy Skewered Llama Cheese Melt	Cooking
+5411	Sky Mushroom	Alchemy, Cooking
+5430	Big Sky Mushroom	Alchemy
+5454	High-quality Sky Mushroom	Alchemy
+5474	Special Sky Mushroom	Alchemy
+9417	Smoked Fish Steak	Cooking
+9445	Golden Smoked Fish Steak	Cooking
+7922	Snake Meat	Cooking
+9260	Soft Bread	Cooking
+9286	Moist Milk Bread	Cooking
+9731	Soft Whale Meat	Cooking
+9352	Sour Citron Cider	Cooking
+9075	Soy Sauce	Cooking
+9076	Soybean Paste	Cooking
+54005	Special Carrot	Cooking
+7362	Special Citron	Cooking
+820122	Special Napa Cabbage	Cooking
+7335	Special Pepper	Cooking
+820125	Special Radish	Cooking
+820130	Special Rice	Cooking
+9299	Spongy Teff Bread	Cooking
+9024	Spring Water	Cooking
+7019	Star Anise	Cooking
+9401	Steak	Cooking
+9430	Juicy Steak	Cooking
+9473	Steamed Prawn	Cooking
+9474	Hearty Steamed Prawn	Cooking
+9333	Stir-Fried Bracken and Meat	Cooking
+9334	Light Stir-Fried Bracken and Meat	Cooking
+9343	Stir-Fried Chanterelle and Meat	Cooking
+9241	Stir-Fried Vegetables	Cooking
+9284	Crispy Stir-Fried Vegetables	Cooking
+9270	Tea with Fine Scent	Cooking
+9292	Tea with Strong Scent	Cooking
+7022	Teff	Cooking
+9214	Teff Bread	Cooking
+7106	Teff Flour	Cooking
+7206	Teff Flour Dough	Cooking
+9218	Teff Sandwich	Cooking
+9303	Spicy Teff Sandwich	Cooking
+5412	Tiger Mushroom	Alchemy, Cooking
+5431	Big Tiger Mushroom	Alchemy
+5455	High-quality Tiger Mushroom	Alchemy
+5475	Special Tiger Mushroom	Alchemy
+9069	Translucent Ice	Cooking
+5420	Truffle Mushroom	Alchemy, Cooking
+5463	High-quality Truffle Mushroom	Alchemy
+5483	Special Truffle Mushroom	Alchemy
+9365	Twice-brewed Mesima Tea	Cooking
+9066	Vinegar	Cooking
+9003	White Sauce	Cooking
+6204	Rhino Blood	Alchemy, Cooking
+6214	Wolf Blood	Alchemy, Cooking
+6216	Cheetah Dragon Blood	Alchemy, Cooking
+6218	Flamingo Blood	Alchemy, Cooking
+7954	Yak Meat	Cooking
+8513	Dried Crab	Cooking
+8546	Dried Crawfish	Cooking
+8514	Dried Jellyfish	Cooking
+8532	Dried Seahorse	Cooking
+8515	Dried Shellfish	Cooking
+8511	Dried Squid	Cooking
+8533	Dried Starfish	Cooking
+8211	Squid	Cooking
+8213	Crab	Cooking
+8246	Crawfish	Cooking
+8634	Dried Cuttlefish	Cooking
+8544	Dried Terrapin	Cooking
+8214	Jellyfish	Cooking
+8232	Seahorse	Cooking
+8215	Shellfish	Cooking
+8233	Starfish	Cooking
+8334	Cuttlefish	Cooking
+8244	Terrapin	Cooking
+8512	Dried Octopus	Cooking
+8664	Dried Red Snow Crab	Cooking
+8212	Octopus	Cooking
+8376	Red Snow Crab	Cooking
+44336	Alchemy Stone Shard	Alchemy
+42399	Ardan's Broken Jewel I	Alchemy
+42400	Ardan's Broken Jewel II	Alchemy
+42401	Ardan's Broken Jewel III	Alchemy
+42412	Arenda's Special Synthesis Base	Alchemy
+5001	Ash Sap	Alchemy
+42395	Askasha's Broken Magic Weapon I	Alchemy
+42396	Askasha's Broken Magic Weapon II	Alchemy
+42397	Askasha's Broken Magic Weapon III	Alchemy
+6208	Lizard Blood	Alchemy
+6219	Bat Blood	Alchemy
+6222	Cobra Blood	Alchemy
+6217	Kuku Bird Blood	Alchemy
+6209	Worm Blood	Alchemy
+6213	Bear Blood	Alchemy
+6223	Lion Blood	Alchemy
+6225	Yak Blood	Alchemy
+6207	Dinosaur Blood	Alchemy
+6221	Ogre Blood	Alchemy
+6220	Troll Blood	Alchemy
+5004	Birch Sap	Alchemy
+4410	Rough Black Crystal	Alchemy
+4470	Black Crystal	Alchemy
+4475	Precious Black Crystal	Alchemy
+4999	Black Gem Fragment	Alchemy
+16001	Black Stone	Alchemy
+4901	Black Stone Powder	Alchemy
+5005	Bloody Tree Knot	Alchemy
+4483	Blue Crystal	Alchemy
+5527	Blue Flower	Alchemy
+5516	Blue Umbrella Mushroom	Alchemy
+9729	Blue Whale Tendon	Alchemy
+5025	Caphras Tree Sap	Alchemy
+5010	Cedar Sap	Alchemy
+721010	Cleansed Magical Black Stone	Alchemy
+5301	Clear Liquid Reagent	Alchemy
+6353	Clown's Blood	Alchemy
+6533	Coral Crystal	Alchemy
+6501	Coral Piece	Alchemy
+16080	Cron Stone	Alchemy
+5019	Dead Tree Essence	Alchemy
+5535	Delotia Essence	Alchemy
+5605	Delotia Powder	Alchemy
+4405	Rough Diamond	Alchemy
+4463	Diamond	Alchemy
+4464	Resplendent Diamond	Alchemy
+5550	Dictyophora	Alchemy
+5404	Dry Mane Grass	Alchemy
+5424	Bunch of Dry Mane Grass	Alchemy
+5447	High-quality Dry Mane Grass	Alchemy
+5467	Special Dry Mane Grass	Alchemy
+4404	Rough Emerald	Alchemy
+4460	Emerald	Alchemy
+4461	Resplendent Emerald	Alchemy
+9791	Essence of Insight	Alchemy
+5206	Essence of Nature	Alchemy
+5208	Essence of the Sun	Alchemy
+5406	Everlasting Herb	Alchemy
+5449	High-quality Everlasting Herb	Alchemy
+5469	Special Everlasting Herb	Alchemy
+5651	Fairy Powder	Alchemy
+6017	Soft Kuku Bird Plume	Alchemy
+6157	Lightweight Plume	Alchemy
+6165	Fine Lightweight Plume	Alchemy
+5009	Fir Sap	Alchemy
+5403	Fire Flake Flower	Alchemy
+5423	Bunch of Fire Flake Flowers	Alchemy
+5446	High-quality Fire Flake Flower	Alchemy
+5466	Special Fire Flake Flower	Alchemy
+6203	Fox Blood	Alchemy
+6224	Scorpion Blood	Alchemy
+6226	Marmot Blood	Alchemy
+6211	Monkey Blood	Alchemy
+6210	Raccoon Blood	Alchemy
+6212	Weasel Blood	Alchemy
+5205	Fruit of Nature Alchemy
+9736	Fugitive Khalk's Skin	Alchemy
+4481	Gem Polisher	Alchemy
+4903	Empty Crystal	Alchemy
+4409	Rough Green Crystal	Alchemy
+4469	Green Crystal	Alchemy
+4474	Precious Green Crystal	Alchemy
+9741	Griffon Claw	Alchemy
+5604	Herbal Gunpowder	Alchemy
+5405	Silk Honey Grass	Alchemy
+5425	Bunch of Silk Honey Grass	Alchemy
+5448	High-quality Silk Honey Grass	Alchemy
+5468	Special Silk Honey Grass	Alchemy
+5402	Silver Azalea	Alchemy
+5422	Bunch of Silver Azaleas	Alchemy
+5445	High-quality Silver Azalea	Alchemy
+5465	Special Silver Azalea	Alchemy
+5401	Sunrise Herb	Alchemy
+5444	High-quality Sunrise Herb	Alchemy
+5421	Pile of Sunrise Herbs	Alchemy
+5464	Special Sunrise Herb	Alchemy
+517	HP Potion (Small)	Alchemy
+518	HP Potion (Medium)	Alchemy
+519	HP Potion (Large)	Alchemy
+766104	Imperfect Lightstone of Fire	Alchemy
+766105	Imperfect Lightstone of Earth	Alchemy
+766106	Imperfect Lightstone of Wind	Alchemy
+766107	Imperfect Lightstone of Flora	Alchemy
+42411	Incomplete First Element	Alchemy
+5122	Inextinguishable Stone	Alchemy
+5601	Insectivore Plant Powder	Alchemy
+5602	Insectivore Plant Sap	Alchemy
+42437	Karanda's Latent Aura	Alchemy
+42450	Kutum's Latent Aura	Alchemy
+42435	Latent Boss Aura	Alchemy
+6351	Legendary Beast's Blood	Alchemy
+5018	Loopy Tree Sap	Alchemy
+15001	Magic Crystal of Crimson Flame - Precision	Alchemy
+15026	Magic Crystal - Agony	Alchemy
+15022	Magic Crystal - Crimson Flame	Alchemy
+15024	Magic Crystal - Destruction	Alchemy
+15023	Magic Crystal - Enchantment	Alchemy
+15025	Magic Crystal - Temptation	Alchemy
+15006	Magic Crystal of Abundance - Armor	Alchemy
+15009	Magic Crystal of Abundance - Healing	Alchemy
+15008	Magic Crystal of Abundance - Patience	Alchemy
+15010	Magic Crystal of Abundance - Resonance	Alchemy
+15007	Magic Crystal of Abundance - Vigor	Alchemy
+15003	Magic Crystal of Crimson Flame - Carnage	Alchemy
+15004	Magic Crystal of Crimson Flame - Carnage	Alchemy
+15005	Magic Crystal of Crimson Flame - Carnage	Alchemy
+15002	Magic Crystal of Crimson Flame - Power	Alchemy
+15020	Magic Crystal of Enchantment - Agility	Alchemy
+15031	Magic Crystal of Enchantment - Experience	Alchemy
+15018	Magic Crystal of Enchantment - Intimidation	Alchemy
+15017	Magic Crystal of Enchantment - Memory	Alchemy
+15019	Magic Crystal of Enchantment - Vision	Alchemy
+15012	Magic Crystal of Nature - Adamantine	Alchemy
+15013	Magic Crystal of Nature - Ascension	Alchemy
+15027	Magic Crystal of Nature - Descent	Alchemy
+15028	Magic Crystal of Nature - Endurance	Alchemy
+15011	Magic Crystal of Nature - Swiftness	Alchemy
+15021	Magic Crystal of Perfection	Alchemy
+15014	Magic Crystal of the Sun - Assault	Alchemy
+15030	Magic Crystal of the Sun - Boulder	Alchemy
+15029	Magic Crystal of the Sun - Ensnare	Alchemy
+15015	Magic Crystal of the Sun - Sturdiness	Alchemy
+15016	Magic Crystal of the Sun - Valor	Alchemy
+766108	Magical Lightstone Crystal	Alchemy
+4918	Magical Shard	Alchemy
+5002	Maple Sap	Alchemy
+4003	Copper Ore	Alchemy
+4057	Melted Copper Shard	Alchemy
+4058	Copper Ingot	Alchemy
+4202	Gold Ore	Alchemy
+4254	Melted Gold Shard	Alchemy
+4255	Gold Ingot	Alchemy
+4001	Iron Ore	Alchemy
+4051	Melted Iron Shard	Alchemy
+4052	Iron Ingot	Alchemy
+4002	Lead Ore	Alchemy
+4054	Melted Lead Shard	Alchemy
+4055	Lead Ingot	Alchemy
+4203	Platinum Ore	Alchemy
+4257	Melted Platinum Shard	Alchemy
+4258	Platinum Ingot	Alchemy
+4201	Silver Ore	Alchemy
+4251	Melted Silver Shard	Alchemy
+4252	Silver Ingot	Alchemy
+4004	Tin Ore	Alchemy
+4060	Melted Tin Shard	Alchemy
+4061	Tin Ingot	Alchemy
+4005	Zinc Ore	Alchemy
+4063	Melted Zinc Shard	Alchemy
+4064	Zinc Ingot	Alchemy
+4076	Metal Solvent	Alchemy
+5007	Monk's Branch	Alchemy
+5017	Moss Tree Sap	Alchemy
+520	MP Potion (Small)	Alchemy
+521	MP Potion (Medium)	Alchemy
+522	MP Potion (Large)	Alchemy
+4407	Rough Mud Crystal	Alchemy
+4467	Mud Crystal	Alchemy
+4472	Precious Mud Crystal	Alchemy
+42436	Nouver's Latent Aura	Alchemy
+42495	Offin Tett's Light Fragment	Alchemy
+6604	Oil of Corruption	Alchemy
+9779	Oil of Enchantment	Alchemy
+6603	Oil of Fortitude	Alchemy
+6601	Oil of Regeneration	Alchemy
+6602	Oil of Storms	Alchemy
+6606	Oil of the Abyss	Alchemy
+6605	Oil of Tranquility	Alchemy
+5008	Old Tree Bark	Alchemy
+5003	Pine Sap	Alchemy
+4204	Rough Opal	Alchemy
+4260	Polished Opal	Alchemy
+4801	Powder of Darkness	Alchemy
+4804	Powder of Earth	Alchemy
+4802	Powder of Flame	Alchemy
+4803	Powder of Rifts	Alchemy
+4805	Powder of Time	Alchemy
+4070	Processed Coal	Alchemy
+5302	Pure Powder Reagent	Alchemy
+5523	Purple Pink Flower	Alchemy
+4476	Red Coral	Alchemy
+4408	Rough Red Crystal	Alchemy
+4468	Red Crystal	Alchemy
+4473	Precious Red Crystal	Alchemy
+4989	Red Essence	Alchemy
+5011	Red Tree Lump	Alchemy
+5546	Red-spotted Amanita	Alchemy
+5606	Refined Delotia Reagent	Alchemy
+5964	Remnants of Burnt Spirits	Alchemy
+4006	Rough Stone	Alchemy
+4401	Rough Ruby	Alchemy
+4451	Ruby	Alchemy
+4452	Resplendent Ruby	Alchemy
+821255	Rusalka's Coral	Alchemy
+4402	Rough Sapphire	Alchemy
+4454	Sapphire	Alchemy
+4455	Resplendent Sapphire	Alchemy
+9733	Shining Powder	Alchemy
+6354	Sinner's Blood	Alchemy
+5525	Sky Blue Flower	Alchemy
+5024	Snowfield Cedar Sap	Alchemy
+5006	Spirit's Leaf	Alchemy
+721009	Stabilized Magical Black Stone	Alchemy
+44084	Sticky Liquid	Alchemy
+6500	Stone of Malice	Alchemy
+9778	Thick Turo Blood	Alchemy
+5023	Thornwood Sap	Alchemy
+5020	Thuja Sap	Alchemy
+4403	Rough Topaz	Alchemy
+4457	Topaz	Alchemy
+4458	Resplendent Topaz	Alchemy
+5960	Trace of Nature	Alchemy
+4406	Rough Translucent Crystal	Alchemy
+4466	Translucent Crystal	Alchemy
+4471	Precious Translucent Crystal	Alchemy
+44461	Turo Heart	Alchemy
+6352	Tyrant's Blood	Alchemy
+4485	Violet Crystal	Alchemy
+5526	Violet Flower	Alchemy
+5517	Volcanic Umbrella Mushroom	Alchemy
+5600	Weeds	Alchemy
+5012	White Cedar Sap	Alchemy
+6506	White Coral	Alchemy
+820909	White Truffle Mushroom	Alchemy
+5439	Wild Grass	Alchemy
+6355	Wise Man's Blood	Alchemy
+5524	Yellow Flower	Alchemy
