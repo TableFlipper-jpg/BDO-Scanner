@@ -1,0 +1,7 @@
+
+Function ANALYSIS GRAPH{
+
+document.getById(analysis graph).style(new_Object_For_Graph).color:red; 
+document.getById(analyssis graph).style(new_Object_for_Graph).font-sizse:center; 
+ 
+}

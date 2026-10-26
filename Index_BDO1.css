@@ -1,0 +1,272 @@
+hbody {
+background-color: #2a0404;
+color: #eeeeee;
+padding: 23px;
+margin: 0;
+font-family: Arial, sans-serif;
+background-image:   url("black_spirit_by_dreikron_d9prsz0-375w-2x.jpg");
+background-size: cover;
+background-position: center;
+background-repeat: no-repeat;
+background-attachment: fixed;
+}
+
+button{
+ display: inline-block;
+    background-color: #d4af37;
+    color: #171717;
+    padding: 8px 12px;
+    border-radius: 8px;
+    cursor: pointer;
+    font-size: 12px;
+    font-weight: bold;
+    text-align: center;
+}
+
+button:hover {
+    background-color: #f0c75e;
+}
+
+/* Upload button inside Part_One */
+.upload-button {
+    display: inline-block;
+    background-color: #d4af37;
+    color: #171717;
+    padding: 12px 20px;
+    border-radius: 8px;
+    cursor: pointer;
+    font-weight: bold;
+    font-size: 14px;
+}
+
+.upload-button:hover {
+    background-color: #f0c75e;
+}
+
+/* Hide the default file input */
+#file-input {
+    display: none;
+}
+
+/* Selected filename */
+#file-name {
+    color: #f0c75e;
+    font-size: 12px;
+    overflow-wrap: anywhere;
+}
+
+/* Drag-and-drop effect */
+.Part_One.dragover {
+    background-color: #2a2a2a;
+    border: 5px double #d4af37;
+}
+
+
+/* Center the upload content inside Part_One */
+
+
+/* Smaller heading */
+.Part_One h2 {
+    font-size: 22px;
+    margin: 0;
+}
+
+
+
+/* Smaller upload button */
+.upload-button {
+    display: inline-block;
+    background-color: #d4af37;
+    color: #171717;
+    padding: 8px 12px;
+    border-radius: 8px;
+    cursor: pointer;
+    font-size: 12px;
+    font-weight: bold;
+    text-align: center;
+}
+
+/* Button hover effect */
+.upload-button:hover {
+    background-color: #f0c75e;
+}
+
+/* Filename styling */
+#file-name {
+    max-width: 150px;
+    overflow-wrap: anywhere;
+    font-size: 11px;
+}
+
+header {
+background-color: #1b1b1b;
+color: #d4af37;
+text-align: center;
+padding: 23px;
+border-bottom: 3px solid #8b0000;
+border-radius:  25px 25px 0px 0px; 
+}
+h1 {
+margin: 0;
+padding: 20px;
+letter-spacing: 3px;
+}
+
+h1:hover {
+background-color: #220202;
+color: #f0c75e;
+border-style: double;
+border-color: #d4af37;
+border-width: 5px;
+border-radius: 38px;
+}
+
+nav {
+text-align: center;
+padding: 15px;
+}
+
+nav a {
+color: #d4af37;
+margin: 10px;
+text-decoration: none;
+}
+
+nav a:hover {
+color: #ffffff;
+text-decoration: underline;
+}
+
+main {
+background-image:  url("images.jpg");
+opacity:90;
+padding: 10px;
+border-radius:  0px 0px 25px 25px; 
+}
+
+section {
+margin-bottom: 25px;
+}
+
+p {
+color: #cccccc;
+text-align: center;
+}
+
+/* Part One */
+.Part_One {
+color: #ffffff;
+text-align: center;
+background-color: #4a1111;
+max-width: 100px; 
+max-height: 100px; 
+padding: 110px;
+margin-top: 25px;
+margin-bottom: 25px;
+margin-right: 25px;
+margin-left: 25px;
+border: 2px solid #c9c1c1;
+border-radius: 38px; 
+flex-direction: row; 
+
+} 
+
+.Part_One:hover {
+background-color: #2a2a2a;
+color: #f0c75e;
+border-style: double;
+border-color: #d4af37;
+border-width: 5px;
+
+}
+
+/* Part Two */
+.Part_two {
+color: #ffffff;
+text-align: center;
+max-width: 100px; 
+max-height: 100px; 
+background-color: #252525;
+padding: 110px;
+margin-top: 25px;
+margin-right: 25px;
+margin-left: 25px;
+margin-bottom: 25px;
+border: 2px solid #8b6f2f;
+border-radius: 38px;
+flex-direction: row; 
+}
+.Part_two:hover {
+background-color: #2a2a2a;
+color: #f0c75e;
+border-style: double;
+border-color: #d4af37;
+border-width: 5px;
+}
+
+/* Part Three */
+.Part_three {
+color: #ffffff;
+text-align: center;
+background-color: #30250f;
+padding: 270px 150px;
+margin-top: -660px;
+margin-bottom:200px;
+margin-left: 370px;
+margin-right: 1pxss;
+border: 2px solid #d4af37;
+border-radius: 38px;
+max-height: 233px; 
+
+}
+
+.Part_three:hover {
+background-color: #2a2a2a;
+color: #f0c75e;
+border-style: double;
+border-color: #d4af37;
+border-width: 5px;
+}
+
+footer {
+    text-align: center;
+    background-color: #520a0a;
+    color: #d4af37;
+    margin: 80px 0 0 0;
+    padding: 60px 20px;
+    border-top: 2px solid #8b0000;
+    border-radius: 38px 38px 38px 38px;
+    box-sizing: border-box;
+    width: 100%;
+    opacity: 0.9;
+
+}
+
+footer:hover {
+    background-color: #2a2a2a;
+    color: #f0c75e;
+    border-style: double;
+    border-color: #d4af37;
+    border-width: 5px;
+    align-content: center;
+}
+
+footer a {
+text-align: left; 
+color: blue; 
+letter-spacing: 1px;
+font-family: Arial, sans-serif;
+background-color: rgb(78, 17, 4); 
+font-size: 12px; 
+font-weight: 12px; 
+font-style: none; 
+font-variant-position:normal; 
+position: sticky; 
+}
+
+
+
+
+
+
+
