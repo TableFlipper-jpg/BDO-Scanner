@@ -1,0 +1,4553 @@
+{
+"Materials": [
+	{
+		"item_ID" : -1,
+		"item_name" : "None",
+		"item_type" : "All",
+		"item_group" : -1,
+		"item_worth" : 1
+	},
+	{
+		"item_ID" : 517,
+		"item_name" : "HP Potion (Small)",
+		"item_type" : "Alchemy",
+		"item_group" : 4001,
+		"item_worth" : 1
+	},
+	{
+		"item_ID" : 518,
+		"item_name" : "HP Potion (Medium)",
+		"item_type" : "Alchemy",
+		"item_group" : 4001,
+		"item_worth" : 6
+	},
+	{
+		"item_ID" : 519,
+		"item_name" : "HP Potion (Large)",
+		"item_type" : "Alchemy",
+		"item_group" : 4001,
+		"item_worth" : 36
+	},
+	{
+		"item_ID" : 520,
+		"item_name" : "MP Potion (Small)",
+		"item_type" : "Alchemy",
+		"item_group" : 4002,
+		"item_worth" : 1
+	},
+	{
+		"item_ID" : 521,
+		"item_name" : "MP Potion (Medium)",
+		"item_type" : "Alchemy",
+		"item_group" : 4002,
+		"item_worth" : 6
+	},
+	{
+		"item_ID" : 522,
+		"item_name" : "MP Potion (Large)",
+		"item_type" : "Alchemy",
+		"item_group" : 4002,
+		"item_worth" : 36
+	},
+	{
+		"item_ID" : 4001,
+		"item_name" : "Iron Ore",
+		"item_type" : "Alchemy",
+		"item_group" : 1,
+		"item_worth" : 1
+	},
+	{
+		"item_ID" : 4002,
+		"item_name" : "Lead Ore",
+		"item_type" : "Alchemy",
+		"item_group" : 2,
+		"item_worth" : 1
+	},
+	{
+		"item_ID" : 4003,
+		"item_name" : "Copper Ore",
+		"item_type" : "Alchemy",
+		"item_group" : 3,
+		"item_worth" : 1
+	},
+	{
+		"item_ID" : 4004,
+		"item_name" : "Tin Ore",
+		"item_type" : "Alchemy",
+		"item_group" : 4,
+		"item_worth" : 1
+	},
+	{
+		"item_ID" : 4005,
+		"item_name" : "Zinc Ore",
+		"item_type" : "Alchemy",
+		"item_group" : 5,
+		"item_worth" : 1
+	},
+	{
+		"item_ID" : 4006,
+		"item_name" : "Rough Stone",
+		"item_type" : "Alchemy",
+		"item_group" : 4006,
+		"item_worth" : 1
+	},
+	{
+		"item_ID" : 4051,
+		"item_name" : "Melted Iron Shard",
+		"item_type" : "Alchemy",
+		"item_group" : 1,
+		"item_worth" : 5
+	},
+	{
+		"item_ID" : 4052,
+		"item_name" : "Iron Ingot",
+		"item_type" : "Alchemy",
+		"item_group" : 1,
+		"item_worth" : 25
+	},
+	{
+		"item_ID" : 4054,
+		"item_name" : "Melted Lead Shard",
+		"item_type" : "Alchemy",
+		"item_group" : 2,
+		"item_worth" : 5
+	},
+	{
+		"item_ID" : 4055,
+		"item_name" : "Lead Ingot",
+		"item_type" : "Alchemy",
+		"item_group" : 2,
+		"item_worth" : 25
+	},
+	{
+		"item_ID" : 4057,
+		"item_name" : "Melted Copper Shard",
+		"item_type" : "Alchemy",
+		"item_group" : 3,
+		"item_worth" : 5
+	},
+	{
+		"item_ID" : 4058,
+		"item_name" : "Copper Ingot",
+		"item_type" : "Alchemy",
+		"item_group" : 3,
+		"item_worth" : 25
+	},
+	{
+		"item_ID" : 4060,
+		"item_name" : "Melted Tin Shard",
+		"item_type" : "Alchemy",
+		"item_group" : 4,
+		"item_worth" : 5
+	},
+	{
+		"item_ID" : 4061,
+		"item_name" : "Tin Ingot",
+		"item_type" : "Alchemy",
+		"item_group" : 4,
+		"item_worth" : 25
+	},
+	{
+		"item_ID" : 4063,
+		"item_name" : "Melted Zinc Shard",
+		"item_type" : "Alchemy",
+		"item_group" : 5,
+		"item_worth" : 5
+	},
+	{
+		"item_ID" : 4064,
+		"item_name" : "Zinc Ingot",
+		"item_type" : "Alchemy",
+		"item_group" : 5,
+		"item_worth" : 25
+	},
+	{
+		"item_ID" : 4070,
+		"item_name" : "Processed Coal",
+		"item_type" : "Alchemy",
+		"item_group" : 4070,
+		"item_worth" : 1
+	},
+	{
+		"item_ID" : 4076,
+		"item_name" : "Metal Solvent",
+		"item_type" : "Alchemy",
+		"item_group" : 4076,
+		"item_worth" : 1
+	},
+	{
+		"item_ID" : 4201,
+		"item_name" : "Silver Ore",
+		"item_type" : "Alchemy",
+		"item_group" : 101,
+		"item_worth" : 1
+	},
+	{
+		"item_ID" : 4202,
+		"item_name" : "Gold Ore",
+		"item_type" : "Alchemy",
+		"item_group" : 102,
+		"item_worth" : 1
+	},
+	{
+		"item_ID" : 4203,
+		"item_name" : "Platinum Ore",
+		"item_type" : "Alchemy",
+		"item_group" : 103,
+		"item_worth" : 1
+	},
+	{
+		"item_ID" : 4204,
+		"item_name" : "Rough Opal",
+		"item_type" : "Alchemy",
+		"item_group" : 7201,
+		"item_worth" : 1
+	},
+	{
+		"item_ID" : 4251,
+		"item_name" : "Melted Silver Shard",
+		"item_type" : "Alchemy",
+		"item_group" : 101,
+		"item_worth" : 5
+	},
+	{
+		"item_ID" : 4252,
+		"item_name" : "Silver Ingot",
+		"item_type" : "Alchemy",
+		"item_group" : 101,
+		"item_worth" : 25
+	},
+	{
+		"item_ID" : 4254,
+		"item_name" : "Melted Gold Shard",
+		"item_type" : "Alchemy",
+		"item_group" : 102,
+		"item_worth" : 5
+	},
+	{
+		"item_ID" : 4255,
+		"item_name" : "Gold Ingot",
+		"item_type" : "Alchemy",
+		"item_group" : 102,
+		"item_worth" : 25
+	},
+	{
+		"item_ID" : 4257,
+		"item_name" : "Melted Platinum Shard",
+		"item_type" : "Alchemy",
+		"item_group" : 103,
+		"item_worth" : 5
+	},
+	{
+		"item_ID" : 4258,
+		"item_name" : "Platinum Ingot",
+		"item_type" : "Alchemy",
+		"item_group" : 103,
+		"item_worth" : 25
+	},
+	{
+		"item_ID" : 4260,
+		"item_name" : "Polished Opal",
+		"item_type" : "Alchemy",
+		"item_group" : 7201,
+		"item_worth" : 10
+	},
+	{
+		"item_ID" : 4401,
+		"item_name" : "Rough Ruby",
+		"item_type" : "Alchemy",
+		"item_group" : 201,
+		"item_worth" : 1
+	},
+	{
+		"item_ID" : 4402,
+		"item_name" : "Rough Sapphire",
+		"item_type" : "Alchemy",
+		"item_group" : 202,
+		"item_worth" : 1
+	},
+	{
+		"item_ID" : 4403,
+		"item_name" : "Rough Topaz",
+		"item_type" : "Alchemy",
+		"item_group" : 203,
+		"item_worth" : 1
+	},
+	{
+		"item_ID" : 4404,
+		"item_name" : "Rough Emerald",
+		"item_type" : "Alchemy",
+		"item_group" : 204,
+		"item_worth" : 1
+	},
+	{
+		"item_ID" : 4405,
+		"item_name" : "Rough Diamond",
+		"item_type" : "Alchemy",
+		"item_group" : 205,
+		"item_worth" : 1
+	},
+	{
+		"item_ID" : 4406,
+		"item_name" : "Rough Translucent Crystal",
+		"item_type" : "Alchemy",
+		"item_group" : 7203,
+		"item_worth" : 1
+	},
+	{
+		"item_ID" : 4407,
+		"item_name" : "Rough Mud Crystal",
+		"item_type" : "Alchemy",
+		"item_group" : 7204,
+		"item_worth" : 1
+	},
+	{
+		"item_ID" : 4408,
+		"item_name" : "Rough Red Crystal",
+		"item_type" : "Alchemy",
+		"item_group" : 7205,
+		"item_worth" : 1
+	},
+	{
+		"item_ID" : 4409,
+		"item_name" : "Rough Green Crystal",
+		"item_type" : "Alchemy",
+		"item_group" : 7206,
+		"item_worth" : 1
+	},
+	{
+		"item_ID" : 4410,
+		"item_name" : "Rough Black Crystal",
+		"item_type" : "Alchemy",
+		"item_group" : 7207,
+		"item_worth" : 1
+	},
+	{
+		"item_ID" : 4451,
+		"item_name" : "Ruby",
+		"item_type" : "Alchemy",
+		"item_group" : 201,
+		"item_worth" : 5
+	},
+	{
+		"item_ID" : 4452,
+		"item_name" : "Resplendent Ruby",
+		"item_type" : "Alchemy",
+		"item_group" : 201,
+		"item_worth" : 25
+	},
+	{
+		"item_ID" : 4454,
+		"item_name" : "Sapphire",
+		"item_type" : "Alchemy",
+		"item_group" : 202,
+		"item_worth" : 5
+	},
+	{
+		"item_ID" : 4455,
+		"item_name" : "Resplendent Sapphire",
+		"item_type" : "Alchemy",
+		"item_group" : 202,
+		"item_worth" : 25
+	},
+	{
+		"item_ID" : 4457,
+		"item_name" : "Topaz",
+		"item_type" : "Alchemy",
+		"item_group" : 203,
+		"item_worth" : 5
+	},
+	{
+		"item_ID" : 4458,
+		"item_name" : "Resplendent Topaz",
+		"item_type" : "Alchemy",
+		"item_group" : 203,
+		"item_worth" : 25
+	},
+	{
+		"item_ID" : 4460,
+		"item_name" : "Emerald",
+		"item_type" : "Alchemy",
+		"item_group" : 204,
+		"item_worth" : 5
+	},
+	{
+		"item_ID" : 4461,
+		"item_name" : "Resplendent Emerald",
+		"item_type" : "Alchemy",
+		"item_group" : 204,
+		"item_worth" : 25
+	},
+	{
+		"item_ID" : 4463,
+		"item_name" : "Diamond",
+		"item_type" : "Alchemy",
+		"item_group" : 205,
+		"item_worth" : 5
+	},
+	{
+		"item_ID" : 4464,
+		"item_name" : "Resplendent Diamond",
+		"item_type" : "Alchemy",
+		"item_group" : 205,
+		"item_worth" : 25
+	},
+	{
+		"item_ID" : 4466,
+		"item_name" : "Translucent Crystal",
+		"item_type" : "Alchemy",
+		"item_group" : 7203,
+		"item_worth" : 10
+	},
+	{
+		"item_ID" : 4467,
+		"item_name" : "Mud Crystal",
+		"item_type" : "Alchemy",
+		"item_group" : 7204,
+		"item_worth" : 10
+	},
+	{
+		"item_ID" : 4468,
+		"item_name" : "Red Crystal",
+		"item_type" : "Alchemy",
+		"item_group" : 7205,
+		"item_worth" : 10
+	},
+	{
+		"item_ID" : 4469,
+		"item_name" : "Green Crystal",
+		"item_type" : "Alchemy",
+		"item_group" : 7206,
+		"item_worth" : 10
+	},
+	{
+		"item_ID" : 4470,
+		"item_name" : "Black Crystal",
+		"item_type" : "Alchemy",
+		"item_group" : 7207,
+		"item_worth" : 10
+	},
+	{
+		"item_ID" : 4471,
+		"item_name" : "Precious Translucent Crystal",
+		"item_type" : "Alchemy",
+		"item_group" : 7203,
+		"item_worth" : 50
+	},
+	{
+		"item_ID" : 4472,
+		"item_name" : "Precious Mud Crystal",
+		"item_type" : "Alchemy",
+		"item_group" : 7204,
+		"item_worth" : 50
+	},
+	{
+		"item_ID" : 4473,
+		"item_name" : "Precious Red Crystal",
+		"item_type" : "Alchemy",
+		"item_group" : 7205,
+		"item_worth" : 50
+	},
+	{
+		"item_ID" : 4474,
+		"item_name" : "Precious Green Crystal",
+		"item_type" : "Alchemy",
+		"item_group" : 7206,
+		"item_worth" : 50
+	},
+	{
+		"item_ID" : 4475,
+		"item_name" : "Precious Black Crystal",
+		"item_type" : "Alchemy",
+		"item_group" : 7207,
+		"item_worth" : 50
+	},
+	{
+		"item_ID" : 4476,
+		"item_name" : "Red Coral",
+		"item_type" : "Alchemy",
+		"item_group" : 4476,
+		"item_worth" : 1
+	},
+	{
+		"item_ID" : 4481,
+		"item_name" : "Gem Polisher",
+		"item_type" : "Alchemy",
+		"item_group" : 4481,
+		"item_worth" : 1
+	},
+	{
+		"item_ID" : 4483,
+		"item_name" : "Blue Crystal",
+		"item_type" : "Alchemy",
+		"item_group" : 4483,
+		"item_worth" : 1
+	},
+	{
+		"item_ID" : 4485,
+		"item_name" : "Violet Crystal",
+		"item_type" : "Alchemy",
+		"item_group" : 4485,
+		"item_worth" : 1
+	},
+	{
+		"item_ID" : 4801,
+		"item_name" : "Powder of Darkness",
+		"item_type" : "Alchemy",
+		"item_group" : 4801,
+		"item_worth" : 1
+	},
+	{
+		"item_ID" : 4802,
+		"item_name" : "Powder of Flame",
+		"item_type" : "Alchemy",
+		"item_group" : 4802,
+		"item_worth" : 1
+	},
+	{
+		"item_ID" : 4803,
+		"item_name" : "Powder of Rifts",
+		"item_type" : "Alchemy",
+		"item_group" : 4803,
+		"item_worth" : 1
+	},
+	{
+		"item_ID" : 4804,
+		"item_name" : "Powder of Earth",
+		"item_type" : "Alchemy",
+		"item_group" : 4804,
+		"item_worth" : 1
+	},
+	{
+		"item_ID" : 4805,
+		"item_name" : "Powder of Time",
+		"item_type" : "Alchemy",
+		"item_group" : 4805,
+		"item_worth" : 1
+	},
+	{
+		"item_ID" : 4901,
+		"item_name" : "Black Stone Powder",
+		"item_type" : "Alchemy",
+		"item_group" : 4901,
+		"item_worth" : 1
+	},
+	{
+		"item_ID" : 4903,
+		"item_name" : "Empty Crystal",
+		"item_type" : "Alchemy",
+		"item_group" : 4519,
+		"item_worth" : 1
+	},
+	{
+		"item_ID" : 4918,
+		"item_name" : "Magical Shard",
+		"item_type" : "Alchemy",
+		"item_group" : 4918,
+		"item_worth" : 1
+	},
+	{
+		"item_ID" : 4989,
+		"item_name" : "Red Essence",
+		"item_type" : "Alchemy",
+		"item_group" : 4989,
+		"item_worth" : 1
+	},
+	{
+		"item_ID" : 4999,
+		"item_name" : "Black Gem Fragment",
+		"item_type" : "Alchemy",
+		"item_group" : 4999,
+		"item_worth" : 1
+	},
+	{
+		"item_ID" : 5001,
+		"item_name" : "Ash Sap",
+		"item_type" : "Alchemy",
+		"item_group" : 5001,
+		"item_worth" : 1
+	},
+	{
+		"item_ID" : 5002,
+		"item_name" : "Maple Sap",
+		"item_type" : "Alchemy",
+		"item_group" : 5002,
+		"item_worth" : 1
+	},
+	{
+		"item_ID" : 5003,
+		"item_name" : "Pine Sap",
+		"item_type" : "Alchemy",
+		"item_group" : 5003,
+		"item_worth" : 1
+	},
+	{
+		"item_ID" : 5004,
+		"item_name" : "Birch Sap",
+		"item_type" : "Alchemy",
+		"item_group" : 5004,
+		"item_worth" : 1
+	},
+	{
+		"item_ID" : 5005,
+		"item_name" : "Bloody Tree Knot",
+		"item_type" : "Alchemy",
+		"item_group" : 5005,
+		"item_worth" : 1
+	},
+	{
+		"item_ID" : 5006,
+		"item_name" : "Spirit's Leaf",
+		"item_type" : "Alchemy",
+		"item_group" : 5006,
+		"item_worth" : 1
+	},
+	{
+		"item_ID" : 5007,
+		"item_name" : "Monk's Branch",
+		"item_type" : "Alchemy",
+		"item_group" : 5007,
+		"item_worth" : 1
+	},
+	{
+		"item_ID" : 5008,
+		"item_name" : "Old Tree Bark",
+		"item_type" : "Alchemy",
+		"item_group" : 5008,
+		"item_worth" : 1
+	},
+	{
+		"item_ID" : 5009,
+		"item_name" : "Fir Sap",
+		"item_type" : "Alchemy",
+		"item_group" : 5009,
+		"item_worth" : 1
+	},
+	{
+		"item_ID" : 5010,
+		"item_name" : "Cedar Sap",
+		"item_type" : "Alchemy",
+		"item_group" : 5010,
+		"item_worth" : 1
+	},
+	{
+		"item_ID" : 5011,
+		"item_name" : "Red Tree Lump",
+		"item_type" : "Alchemy",
+		"item_group" : 5011,
+		"item_worth" : 1
+	},
+	{
+		"item_ID" : 5012,
+		"item_name" : "White Cedar Sap",
+		"item_type" : "Alchemy",
+		"item_group" : 5012,
+		"item_worth" : 1
+	},
+	{
+		"item_ID" : 5017,
+		"item_name" : "Moss Tree Sap",
+		"item_type" : "Alchemy",
+		"item_group" : 5017,
+		"item_worth" : 1
+	},
+	{
+		"item_ID" : 5018,
+		"item_name" : "Loopy Tree Sap",
+		"item_type" : "Alchemy",
+		"item_group" : 5018,
+		"item_worth" : 1
+	},
+	{
+		"item_ID" : 5019,
+		"item_name" : "Dead Tree Essence",
+		"item_type" : "Alchemy",
+		"item_group" : 5019,
+		"item_worth" : 1
+	},
+	{
+		"item_ID" : 5020,
+		"item_name" : "Thuja Sap",
+		"item_type" : "Alchemy",
+		"item_group" : 5020,
+		"item_worth" : 1
+	},
+	{
+		"item_ID" : 5023,
+		"item_name" : "Thornwood Sap",
+		"item_type" : "Alchemy",
+		"item_group" : 5023,
+		"item_worth" : 1
+	},
+	{
+		"item_ID" : 5024,
+		"item_name" : "Snowfield Cedar Sap",
+		"item_type" : "Alchemy",
+		"item_group" : 5024,
+		"item_worth" : 1
+	},
+	{
+		"item_ID" : 5025,
+		"item_name" : "Caphras Tree Sap",
+		"item_type" : "Alchemy",
+		"item_group" : 5025,
+		"item_worth" : 1
+	},
+	{
+		"item_ID" : 5122,
+		"item_name" : "Inextinguishable Stone",
+		"item_type" : "Alchemy",
+		"item_group" : 5122,
+		"item_worth" : 1
+	},
+	{
+		"item_ID" : 5205,
+		"item_name" : "Fruit of Nature",
+		"item_type" : "Alchemy",
+		"item_group" : 5205,
+		"item_worth" : 1
+	},
+	{
+		"item_ID" : 5206,
+		"item_name" : "Essence of Nature",
+		"item_type" : "Alchemy",
+		"item_group" : 5206,
+		"item_worth" : 1
+	},
+	{
+		"item_ID" : 5208,
+		"item_name" : "Essence of the Sun",
+		"item_type" : "Alchemy",
+		"item_group" : 5208,
+		"item_worth" : 1
+	},
+	{
+		"item_ID" : 5301,
+		"item_name" : "Clear Liquid Reagent",
+		"item_type" : "Alchemy",
+		"item_group" : 5301,
+		"item_worth" : 1
+	},
+	{
+		"item_ID" : 5302,
+		"item_name" : "Pure Powder Reagent",
+		"item_type" : "Alchemy",
+		"item_group" : 5302,
+		"item_worth" : 1
+	},
+	{
+		"item_ID" : 5401,
+		"item_name" : "Sunrise Herb",
+		"item_type" : "Alchemy",
+		"item_group" : 3001,
+		"item_worth" : 1
+	},
+	{
+		"item_ID" : 5402,
+		"item_name" : "Silver Azalea",
+		"item_type" : "Alchemy",
+		"item_group" : 3002,
+		"item_worth" : 1
+	},
+	{
+		"item_ID" : 5403,
+		"item_name" : "Fire Flake Flower",
+		"item_type" : "Alchemy",
+		"item_group" : 3003,
+		"item_worth" : 1
+	},
+	{
+		"item_ID" : 5404,
+		"item_name" : "Dry Mane Grass",
+		"item_type" : "Alchemy",
+		"item_group" : 3004,
+		"item_worth" : 1
+	},
+	{
+		"item_ID" : 5405,
+		"item_name" : "Silk Honey Grass",
+		"item_type" : "Alchemy",
+		"item_group" : 3005,
+		"item_worth" : 1
+	},
+	{
+		"item_ID" : 5406,
+		"item_name" : "Everlasting Herb",
+		"item_type" : "Alchemy",
+		"item_group" : 3006,
+		"item_worth" : 1
+	},
+	{
+		"item_ID" : 5407,
+		"item_name" : "Fortune Teller Mushroom",
+		"item_type" : "Alchemy, Cooking",
+		"item_group" : 3007,
+		"item_worth" : 1
+	},
+	{
+		"item_ID" : 5408,
+		"item_name" : "Arrow Mushroom",
+		"item_type" : "Alchemy, Cooking",
+		"item_group" : 3008,
+		"item_worth" : 1
+	},
+	{
+		"item_ID" : 5409,
+		"item_name" : "Dwarf Mushroom",
+		"item_type" : "Alchemy, Cooking",
+		"item_group" : 3009,
+		"item_worth" : 1
+	},
+	{
+		"item_ID" : 5410,
+		"item_name" : "Cloud Mushroom",
+		"item_type" : "Alchemy, Cooking",
+		"item_group" : 3010,
+		"item_worth" : 1
+	},
+	{
+		"item_ID" : 5411,
+		"item_name" : "Sky Mushroom",
+		"item_type" : "Alchemy, Cooking",
+		"item_group" : 3011,
+		"item_worth" : 1
+	},
+	{
+		"item_ID" : 5412,
+		"item_name" : "Tiger Mushroom",
+		"item_type" : "Alchemy, Cooking",
+		"item_group" : 3012,
+		"item_worth" : 1
+	},
+	{
+		"item_ID" : 5413,
+		"item_name" : "Emperor Mushroom",
+		"item_type" : "Alchemy, Cooking",
+		"item_group" : 3013,
+		"item_worth" : 1
+	},
+	{
+		"item_ID" : 5414,
+		"item_name" : "Ghost Mushroom",
+		"item_type" : "Alchemy, Cooking",
+		"item_group" : 3014,
+		"item_worth" : 1
+	},
+	{
+		"item_ID" : 5415,
+		"item_name" : "Fog Mushroom",
+		"item_type" : "Alchemy, Cooking",
+		"item_group" : 3015,
+		"item_worth" : 1
+	},
+	{
+		"item_ID" : 5416,
+		"item_name" : "Hump Mushroom",
+		"item_type" : "Alchemy, Cooking",
+		"item_group" : 3016,
+		"item_worth" : 1
+	},
+	{
+		"item_ID" : 5417,
+		"item_name" : "Bluffer Mushroom",
+		"item_type" : "Alchemy, Cooking",
+		"item_group" : 3017,
+		"item_worth" : 1
+	},
+	{
+		"item_ID" : 5418,
+		"item_name" : "Ancient Mushroom",
+		"item_type" : "Alchemy, Cooking",
+		"item_group" : 3018,
+		"item_worth" : 1
+	},
+	{
+		"item_ID" : 5419,
+		"item_name" : "Amanita Mushroom",
+		"item_type" : "Alchemy, Cooking",
+		"item_group" : 3019,
+		"item_worth" : 1
+	},
+	{
+		"item_ID" : 5420,
+		"item_name" : "Truffle Mushroom",
+		"item_type" : "Alchemy, Cooking",
+		"item_group" : 3020,
+		"item_worth" : 1
+	},
+	{
+		"item_ID" : 5421,
+		"item_name" : "Pile of Sunrise Herbs",
+		"item_type" : "Alchemy",
+		"item_group" : 3001,
+		"item_worth" : 6
+	},
+	{
+		"item_ID" : 5422,
+		"item_name" : "Bunch of Silver Azaleas",
+		"item_type" : "Alchemy",
+		"item_group" : 3002,
+		"item_worth" : 6
+	},
+	{
+		"item_ID" : 5423,
+		"item_name" : "Bunch of Fire Flake Flowers",
+		"item_type" : "Alchemy",
+		"item_group" : 3003,
+		"item_worth" : 6
+	},
+	{
+		"item_ID" : 5424,
+		"item_name" : "Bunch of Dry Mane Grass",
+		"item_type" : "Alchemy",
+		"item_group" : 3004,
+		"item_worth" : 6
+	},
+	{
+		"item_ID" : 5425,
+		"item_name" : "Bunch of Silk Honey Grass",
+		"item_type" : "Alchemy",
+		"item_group" : 3005,
+		"item_worth" : 6
+	},
+	{
+		"item_ID" : 5426,
+		"item_name" : "Big Fortune Teller Mushroom",
+		"item_type" : "Alchemy, Cooking",
+		"item_group" : 3007,
+		"item_worth" : 2
+	},
+	{
+		"item_ID" : 5427,
+		"item_name" : "Big Arrow Mushroom",
+		"item_type" : "Alchemy",
+		"item_group" : 0,
+		"item_worth" : 3008
+	},
+	{
+		"item_ID" : 5428,
+		"item_name" : "Big Dwarf Mushroom",
+		"item_type" : "Alchemy",
+		"item_group" : 3009,
+		"item_worth" : 6
+	},
+	{
+		"item_ID" : 5429,
+		"item_name" : "Big Cloud Mushroom",
+		"item_type" : "Alchemy",
+		"item_group" : 3010,
+		"item_worth" : 6
+	},
+	{
+		"item_ID" : 5430,
+		"item_name" : "Big Sky Mushroom",
+		"item_type" : "Alchemy",
+		"item_group" : 3011,
+		"item_worth" : 6
+	},
+	{
+		"item_ID" : 5431,
+		"item_name" : "Big Tiger Mushroom",
+		"item_type" : "Alchemy",
+		"item_group" : 3012,
+		"item_worth" : 6
+	},
+	{
+		"item_ID" : 5432,
+		"item_name" : "Big Emperor Mushroom",
+		"item_type" : "Alchemy",
+		"item_group" : 3013,
+		"item_worth" : 6
+	},
+	{
+		"item_ID" : 5433,
+		"item_name" : "Big Ghost Mushroom",
+		"item_type" : "Alchemy",
+		"item_group" : 3014,
+		"item_worth" : 6
+	},
+	{
+		"item_ID" : 5434,
+		"item_name" : "Big Fog Mushroom",
+		"item_type" : "Alchemy",
+		"item_group" : 3015,
+		"item_worth" : 6
+	},
+	{
+		"item_ID" : 5435,
+		"item_name" : "Big Hump Mushroom",
+		"item_type" : "Alchemy",
+		"item_group" : 3016,
+		"item_worth" : 6
+	},
+	{
+		"item_ID" : 5436,
+		"item_name" : "Big Bluffer Mushroom",
+		"item_type" : "Alchemy",
+		"item_group" : 3017,
+		"item_worth" : 6
+	},
+	{
+		"item_ID" : 5437,
+		"item_name" : "Big Ancient Mushroom",
+		"item_type" : "Alchemy",
+		"item_group" : 3018,
+		"item_worth" : 6
+	},
+	{
+		"item_ID" : 5438,
+		"item_name" : "Big Amanita Mushroom",
+		"item_type" : "Alchemy",
+		"item_group" : 3019,
+		"item_worth" : 6
+	},
+	{
+		"item_ID" : 5439,
+		"item_name" : "Wild Grass",
+		"item_type" : "Alchemy",
+		"item_group" : 5439,
+		"item_worth" : 1
+	},
+	{
+		"item_ID" : 5444,
+		"item_name" : "High-quality Sunrise Herb",
+		"item_type" : "Alchemy",
+		"item_group" : 3001,
+		"item_worth" : 6
+	},
+	{
+		"item_ID" : 5445,
+		"item_name" : "High-quality Silver Azalea",
+		"item_type" : "Alchemy",
+		"item_group" : 3002,
+		"item_worth" : 6
+	},
+	{
+		"item_ID" : 5446,
+		"item_name" : "High-quality Fire Flake Flower",
+		"item_type" : "Alchemy",
+		"item_group" : 3003,
+		"item_worth" : 6
+	},
+	{
+		"item_ID" : 5447,
+		"item_name" : "High-quality Dry Mane Grass",
+		"item_type" : "Alchemy",
+		"item_group" : 3004,
+		"item_worth" : 6
+	},
+	{
+		"item_ID" : 5448,
+		"item_name" : "High-quality Silk Honey Grass",
+		"item_type" : "Alchemy",
+		"item_group" : 3005,
+		"item_worth" : 6
+	},
+	{
+		"item_ID" : 5449,
+		"item_name" : "High-quality Everlasting Herb",
+		"item_type" : "Alchemy",
+		"item_group" : 3006,
+		"item_worth" : 6
+	},
+	{
+		"item_ID" : 5450,
+		"item_name" : "High-quality Fortune Teller Mushroom",
+		"item_type" : "Alchemy, Cooking",
+		"item_group" : 3007,
+		"item_worth" : 12
+	},
+	{
+		"item_ID" : 5451,
+		"item_name" : "High-quality Arrow Mushroom",
+		"item_type" : "Alchemy",
+		"item_group" : 3008,
+		"item_worth" : 36
+	},
+	{
+		"item_ID" : 5452,
+		"item_name" : "High-quality Dwarf Mushroom",
+		"item_type" : "Alchemy",
+		"item_group" : 3009,
+		"item_worth" : 36
+	},
+	{
+		"item_ID" : 5453,
+		"item_name" : "High-quality Cloud Mushroom",
+		"item_type" : "Alchemy",
+		"item_group" : 3010,
+		"item_worth" : 36
+	},
+	{
+		"item_ID" : 5454,
+		"item_name" : "High-quality Sky Mushroom",
+		"item_type" : "Alchemy",
+		"item_group" : 3011,
+		"item_worth" : 36
+	},
+	{
+		"item_ID" : 5455,
+		"item_name" : "High-quality Tiger Mushroom",
+		"item_type" : "Alchemy",
+		"item_group" : 3012,
+		"item_worth" : 36
+	},
+	{
+		"item_ID" : 5456,
+		"item_name" : "High-quality Emperor Mushroom",
+		"item_type" : "Alchemy",
+		"item_group" : 3013,
+		"item_worth" : 36
+	},
+	{
+		"item_ID" : 5457,
+		"item_name" : "High-quality Ghost Mushroom",
+		"item_type" : "Alchemy",
+		"item_group" : 3014,
+		"item_worth" : 36
+	},
+	{
+		"item_ID" : 5458,
+		"item_name" : "High-quality Fog Mushroom",
+		"item_type" : "Alchemy",
+		"item_group" : 3015,
+		"item_worth" : 36
+	},
+	{
+		"item_ID" : 5459,
+		"item_name" : "High-quality Hump Mushroom",
+		"item_type" : "Alchemy",
+		"item_group" : 3016,
+		"item_worth" : 36
+	},
+	{
+		"item_ID" : 5460,
+		"item_name" : "High-quality Bluffer Mushroom",
+		"item_type" : "Alchemy",
+		"item_group" : 3017,
+		"item_worth" : 36
+	},
+	{
+		"item_ID" : 5461,
+		"item_name" : "High-quality Ancient Mushroom",
+		"item_type" : "Alchemy",
+		"item_group" : 3018,
+		"item_worth" : 36
+	},
+	{
+		"item_ID" : 5462,
+		"item_name" : "High-quality Amanita Mushroom",
+		"item_type" : "Alchemy",
+		"item_group" : 3019,
+		"item_worth" : 36
+	},
+	{
+		"item_ID" : 5463,
+		"item_name" : "High-quality Truffle Mushroom",
+		"item_type" : "Alchemy",
+		"item_group" : 3020,
+		"item_worth" : 6
+	},
+	{
+		"item_ID" : 5464,
+		"item_name" : "Special Sunrise Herb",
+		"item_type" : "Alchemy",
+		"item_group" : 3001,
+		"item_worth" : 36
+	},
+	{
+		"item_ID" : 5465,
+		"item_name" : "Special Silver Azalea",
+		"item_type" : "Alchemy",
+		"item_group" : 3002,
+		"item_worth" : 36
+	},
+	{
+		"item_ID" : 5466,
+		"item_name" : "Special Fire Flake Flower",
+		"item_type" : "Alchemy",
+		"item_group" : 3003,
+		"item_worth" : 36
+	},
+	{
+		"item_ID" : 5467,
+		"item_name" : "Special Dry Mane Grass",
+		"item_type" : "Alchemy",
+		"item_group" : 3004,
+		"item_worth" : 36
+	},
+	{
+		"item_ID" : 5468,
+		"item_name" : "Special Silk Honey Grass",
+		"item_type" : "Alchemy",
+		"item_group" : 3005,
+		"item_worth" : 36
+	},
+	{
+		"item_ID" : 5469,
+		"item_name" : "Special Everlasting Herb",
+		"item_type" : "Alchemy",
+		"item_group" : 3006,
+		"item_worth" : 36
+	},
+	{
+		"item_ID" : 5470,
+		"item_name" : "Special Fortune Teller Mushroom",
+		"item_type" : "Alchemy, Cooking",
+		"item_group" : 3007,
+		"item_worth" : 72
+	},
+	{
+		"item_ID" : 5471,
+		"item_name" : "Special Arrow Mushroom",
+		"item_type" : "Alchemy",
+		"item_group" : 3008,
+		"item_worth" : 216
+	},
+	{
+		"item_ID" : 5472,
+		"item_name" : "Special Dwarf Mushroom",
+		"item_type" : "Alchemy",
+		"item_group" : 3009,
+		"item_worth" : 216
+	},
+	{
+		"item_ID" : 5473,
+		"item_name" : "Special Cloud Mushroom",
+		"item_type" : "Alchemy",
+		"item_group" : 3010,
+		"item_worth" : 216
+	},
+	{
+		"item_ID" : 5474,
+		"item_name" : "Special Sky Mushroom",
+		"item_type" : "Alchemy",
+		"item_group" : 3011,
+		"item_worth" : 216
+	},
+	{
+		"item_ID" : 5475,
+		"item_name" : "Special Tiger Mushroom",
+		"item_type" : "Alchemy",
+		"item_group" : 3012,
+		"item_worth" : 216
+	},
+	{
+		"item_ID" : 5476,
+		"item_name" : "Special Emperor Mushroom",
+		"item_type" : "Alchemy",
+		"item_group" : 3013,
+		"item_worth" : 216
+	},
+	{
+		"item_ID" : 5477,
+		"item_name" : "Special Ghost Mushroom",
+		"item_type" : "Alchemy",
+		"item_group" : 3014,
+		"item_worth" : 216
+	},
+	{
+		"item_ID" : 5478,
+		"item_name" : "Special Fog Mushroom",
+		"item_type" : "Alchemy",
+		"item_group" : 3015,
+		"item_worth" : 216
+	},
+	{
+		"item_ID" : 5479,
+		"item_name" : "Special Hump Mushroom",
+		"item_type" : "Alchemy",
+		"item_group" : 3016,
+		"item_worth" : 216
+	},
+	{
+		"item_ID" : 5480,
+		"item_name" : "Special Bluffer Mushroom",
+		"item_type" : "Alchemy",
+		"item_group" : 3017,
+		"item_worth" : 216
+	},
+	{
+		"item_ID" : 5481,
+		"item_name" : "Special Ancient Mushroom",
+		"item_type" : "Alchemy",
+		"item_group" : 3018,
+		"item_worth" : 216
+	},
+	{
+		"item_ID" : 5482,
+		"item_name" : "Special Amanita Mushroom",
+		"item_type" : "Alchemy",
+		"item_group" : 3019,
+		"item_worth" : 216
+	},
+	{
+		"item_ID" : 5483,
+		"item_name" : "Special Truffle Mushroom",
+		"item_type" : "Alchemy",
+		"item_group" : 3020,
+		"item_worth" : 36
+	},
+	{
+		"item_ID" : 5515,
+		"item_name" : "Rainbow Button Mushroom",
+		"item_type" : "Cooking",
+		"item_group" : 5515,
+		"item_worth" : 1
+	},
+	{
+		"item_ID" : 5516,
+		"item_name" : "Blue Umbrella Mushroom",
+		"item_type" : "Alchemy",
+		"item_group" : 5516,
+		"item_worth" : 1
+	},
+	{
+		"item_ID" : 5517,
+		"item_name" : "Volcanic Umbrella Mushroom",
+		"item_type" : "Alchemy",
+		"item_group" : 5517,
+		"item_worth" : 1
+	},
+	{
+		"item_ID" : 5523,
+		"item_name" : "Purple Pink Flower",
+		"item_type" : "Alchemy",
+		"item_group" : 5523,
+		"item_worth" : 1
+	},
+	{
+		"item_ID" : 5524,
+		"item_name" : "Yellow Flower",
+		"item_type" : "Alchemy",
+		"item_group" : 5524,
+		"item_worth" : 1
+	},
+	{
+		"item_ID" : 5525,
+		"item_name" : "Sky Blue Flower",
+		"item_type" : "Alchemy",
+		"item_group" : 5525,
+		"item_worth" : 1
+	},
+	{
+		"item_ID" : 5526,
+		"item_name" : "Violet Flower",
+		"item_type" : "Alchemy",
+		"item_group" : 5526,
+		"item_worth" : 1
+	},
+	{
+		"item_ID" : 5527,
+		"item_name" : "Blue Flower",
+		"item_type" : "Alchemy",
+		"item_group" : 5527,
+		"item_worth" : 1
+	},
+	{
+		"item_ID" : 5532,
+		"item_name" : "Bracken",
+		"item_type" : "Cooking",
+		"item_group" : 5532,
+		"item_worth" : 1
+	},
+	{
+		"item_ID" : 5535,
+		"item_name" : "Delotia Essence",
+		"item_type" : "Alchemy",
+		"item_group" : 5535,
+		"item_worth" : 1
+	},
+	{
+		"item_ID" : 5536,
+		"item_name" : "High-quality Delotia",
+		"item_type" : "Alchemy, Cooking",
+		"item_group" : 7357,
+		"item_worth" : 6
+	},
+	{
+		"item_ID" : 5537,
+		"item_name" : "Special Delotia",
+		"item_type" : "Alchemy, Cooking",
+		"item_group" : 7357,
+		"item_worth" : 36
+	},
+	{
+		"item_ID" : 5538,
+		"item_name" : "Delotia",
+		"item_type" : "Alchemy, Cooking",
+		"item_group" : 7357,
+		"item_worth" : 1
+	},
+	{
+		"item_ID" : 5544,
+		"item_name" : "Chanterelle",
+		"item_type" : "Cooking",
+		"item_group" : 5544,
+		"item_worth" : 1
+	},
+	{
+		"item_ID" : 5546,
+		"item_name" : "Red-spotted Amanita",
+		"item_type" : "Alchemy",
+		"item_group" : 5546,
+		"item_worth" : 1
+	},
+	{
+		"item_ID" : 5548,
+		"item_name" : "Mesima",
+		"item_type" : "Cooking",
+		"item_group" : 5548,
+		"item_worth" : 1
+	},
+	{
+		"item_ID" : 5550,
+		"item_name" : "Dictyophora",
+		"item_type" : "Alchemy",
+		"item_group" : 5550,
+		"item_worth" : 1
+	},
+	{
+		"item_ID" : 5600,
+		"item_name" : "Weeds",
+		"item_type" : "Alchemy",
+		"item_group" : 5600,
+		"item_worth" : 1
+	},
+	{
+		"item_ID" : 5601,
+		"item_name" : "Insectivore Plant Powder",
+		"item_type" : "Alchemy",
+		"item_group" : 5601,
+		"item_worth" : 1
+	},
+	{
+		"item_ID" : 5602,
+		"item_name" : "Insectivore Plant Sap",
+		"item_type" : "Alchemy",
+		"item_group" : 5602,
+		"item_worth" : 1
+	},
+	{
+		"item_ID" : 5604,
+		"item_name" : "Herbal Gunpowder",
+		"item_type" : "Alchemy",
+		"item_group" : 5604,
+		"item_worth" : 1
+	},
+	{
+		"item_ID" : 5605,
+		"item_name" : "Delotia Powder",
+		"item_type" : "Alchemy",
+		"item_group" : 5605,
+		"item_worth" : 1
+	},
+	{
+		"item_ID" : 5606,
+		"item_name" : "Refined Delotia Reagent",
+		"item_type" : "Alchemy",
+		"item_group" : 5606,
+		"item_worth" : 1
+	},
+	{
+		"item_ID" : 5651,
+		"item_name" : "Fairy Powder",
+		"item_type" : "Alchemy",
+		"item_group" : 5651,
+		"item_worth" : 1
+	},
+	{
+		"item_ID" : 5960,
+		"item_name" : "Trace of Nature",
+		"item_type" : "Alchemy",
+		"item_group" : 5960,
+		"item_worth" : 1
+	},
+	{
+		"item_ID" : 5964,
+		"item_name" : "Remnants of Burnt Spirits",
+		"item_type" : "Alchemy",
+		"item_group" : 5964,
+		"item_worth" : 1
+	},
+	{
+		"item_ID" : 6017,
+		"item_name" : "Soft Kuku Bird Plume",
+		"item_type" : "Alchemy",
+		"item_group" : 707,
+		"item_worth" : 1
+	},
+	{
+		"item_ID" : 6157,
+		"item_name" : "Lightweight Plume",
+		"item_type" : "Alchemy",
+		"item_group" : 707,
+		"item_worth" : 5
+	},
+	{
+		"item_ID" : 6165,
+		"item_name" : "Fine Lightweight Plume",
+		"item_type" : "Alchemy",
+		"item_group" : 707,
+		"item_worth" : 25
+	},
+	{
+		"item_ID" : 6201,
+		"item_name" : "Deer Blood",
+		"item_type" : "Alchemy, Cooking",
+		"item_group" : 801,
+		"item_worth" : 2
+	},
+	{
+		"item_ID" : 6202,
+		"item_name" : "Sheep Blood",
+		"item_type" : "Alchemy, Cooking",
+		"item_group" : 801,
+		"item_worth" : 2
+	},
+	{
+		"item_ID" : 6203,
+		"item_name" : "Fox Blood",
+		"item_type" : "Alchemy",
+		"item_group" : 803,
+		"item_worth" : 1
+	},
+	{
+		"item_ID" : 6204,
+		"item_name" : "Rhino Blood",
+		"item_type" : "Alchemy, Cooking",
+		"item_group" : 805,
+		"item_worth" : 1
+	},
+	{
+		"item_ID" : 6205,
+		"item_name" : "Pig Blood",
+		"item_type" : "Alchemy, Cooking",
+		"item_group" : 801,
+		"item_worth" : 1
+	},
+	{
+		"item_ID" : 6206,
+		"item_name" : "Ox Blood",
+		"item_type" : "Alchemy, Cooking",
+		"item_group" : 801,
+		"item_worth" : 2
+	},
+	{
+		"item_ID" : 6207,
+		"item_name" : "Dinosaur Blood",
+		"item_type" : "Alchemy",
+		"item_group" : 802,
+		"item_worth" : 2
+	},
+	{
+		"item_ID" : 6208,
+		"item_name" : "Lizard Blood",
+		"item_type" : "Alchemy",
+		"item_group" : 804,
+		"item_worth" : 1
+	},
+	{
+		"item_ID" : 6209,
+		"item_name" : "Worm Blood",
+		"item_type" : "Alchemy",
+		"item_group" : 804,
+		"item_worth" : 2
+	},
+	{
+		"item_ID" : 6210,
+		"item_name" : "Raccoon Blood",
+		"item_type" : "Alchemy",
+		"item_group" : 803,
+		"item_worth" : 2
+	},
+	{
+		"item_ID" : 6211,
+		"item_name" : "Monkey Blood",
+		"item_type" : "Alchemy",
+		"item_group" : 803,
+		"item_worth" : 2
+	},
+	{
+		"item_ID" : 6212,
+		"item_name" : "Weasel Blood",
+		"item_type" : "Alchemy",
+		"item_group" : 803,
+		"item_worth" : 2
+	},
+	{
+		"item_ID" : 6213,
+		"item_name" : "Bear Blood",
+		"item_type" : "Alchemy",
+		"item_group" : 802,
+		"item_worth" : 1
+	},
+	{
+		"item_ID" : 6214,
+		"item_name" : "Wolf Blood",
+		"item_type" : "Alchemy, Cooking",
+		"item_group" : 805,
+		"item_worth" : 1
+	},
+	{
+		"item_ID" : 6215,
+		"item_name" : "Waragon Blood",
+		"item_type" : "Alchemy, Cooking",
+		"item_group" : 801,
+		"item_worth" : 2
+	},
+	{
+		"item_ID" : 6216,
+		"item_name" : "Cheetah Dragon Blood",
+		"item_type" : "Alchemy, Cooking",
+		"item_group" : 805,
+		"item_worth" : 2
+	},
+	{
+		"item_ID" : 6217,
+		"item_name" : "Kuku Bird Blood",
+		"item_type" : "Alchemy",
+		"item_group" : 804,
+		"item_worth" : 2
+	},
+	{
+		"item_ID" : 6218,
+		"item_name" : "Flamingo Blood",
+		"item_type" : "Alchemy, Cooking",
+		"item_group" : 805,
+		"item_worth" : 2
+	},
+	{
+		"item_ID" : 6219,
+		"item_name" : "Bat Blood",
+		"item_type" : "Alchemy",
+		"item_group" : 804,
+		"item_worth" : 2
+	},
+	{
+		"item_ID" : 6220,
+		"item_name" : "Troll Blood",
+		"item_type" : "Alchemy",
+		"item_group" : 802,
+		"item_worth" : 2
+	},
+	{
+		"item_ID" : 6221,
+		"item_name" : "Ogre Blood",
+		"item_type" : "Alchemy",
+		"item_group" : 802,
+		"item_worth" : 2
+	},
+	{
+		"item_ID" : 6222,
+		"item_name" : "Cobra Blood",
+		"item_type" : "Alchemy",
+		"item_group" : 804,
+		"item_worth" : 2
+	},
+	{
+		"item_ID" : 6223,
+		"item_name" : "Lion Blood",
+		"item_type" : "Alchemy",
+		"item_group" : 802,
+		"item_worth" : 1
+	},
+	{
+		"item_ID" : 6224,
+		"item_name" : "Scorpion Blood",
+		"item_type" : "Alchemy",
+		"item_group" : 803,
+		"item_worth" : 1
+	},
+	{
+		"item_ID" : 6225,
+		"item_name" : "Yak Blood",
+		"item_type" : "Alchemy",
+		"item_group" : 802,
+		"item_worth" : 1
+	},
+	{
+		"item_ID" : 6226,
+		"item_name" : "Marmot Blood",
+		"item_type" : "Alchemy",
+		"item_group" : 803,
+		"item_worth" : 2
+	},
+	{
+		"item_ID" : 6227,
+		"item_name" : "Llama Blood",
+		"item_type" : "Alchemy, Cooking",
+		"item_group" : 801,
+		"item_worth" : 2
+	},
+	{
+		"item_ID" : 6228,
+		"item_name" : "Goat Blood",
+		"item_type" : "Alchemy, Cooking",
+		"item_group" : 801,
+		"item_worth" : 2
+	},
+	{
+		"item_ID" : 6351,
+		"item_name" : "Legendary Beast's Blood",
+		"item_type" : "Alchemy",
+		"item_group" : 6351,
+		"item_worth" : 1
+	},
+	{
+		"item_ID" : 6352,
+		"item_name" : "Tyrant's Blood",
+		"item_type" : "Alchemy",
+		"item_group" : 6352,
+		"item_worth" : 1
+	},
+	{
+		"item_ID" : 6353,
+		"item_name" : "Clown's Blood",
+		"item_type" : "Alchemy",
+		"item_group" : 6353,
+		"item_worth" : 1
+	},
+	{
+		"item_ID" : 6354,
+		"item_name" : "Sinner's Blood",
+		"item_type" : "Alchemy",
+		"item_group" : 6354,
+		"item_worth" : 1
+	},
+	{
+		"item_ID" : 6355,
+		"item_name" : "Wise Man's Blood",
+		"item_type" : "Alchemy",
+		"item_group" : 6355,
+		"item_worth" : 1
+	},
+	{
+		"item_ID" : 6500,
+		"item_name" : "Stone of Malice",
+		"item_type" : "Alchemy",
+		"item_group" : 6500,
+		"item_worth" : 1
+	},
+	{
+		"item_ID" : 6501,
+		"item_name" : "Coral Piece",
+		"item_type" : "Alchemy",
+		"item_group" : 6501,
+		"item_worth" : 1
+	},
+	{
+		"item_ID" : 6506,
+		"item_name" : "White Coral",
+		"item_type" : "Alchemy",
+		"item_group" : 6506,
+		"item_worth" : 1
+	},
+	{
+		"item_ID" : 6511,
+		"item_name" : "Lobster",
+		"item_type" : "Cooking",
+		"item_group" : 5751,
+		"item_worth" : 1
+	},
+	{
+		"item_ID" : 6515,
+		"item_name" : "Oyster",
+		"item_type" : "Cooking",
+		"item_group" : 6515,
+		"item_worth" : 1
+	},
+	{
+		"item_ID" : 6516,
+		"item_name" : "Shrimp",
+		"item_type" : "Cooking",
+		"item_group" : 6516,
+		"item_worth" : 1
+	},
+	{
+		"item_ID" : 6521,
+		"item_name" : "Dried Lobster",
+		"item_type" : "Cooking",
+		"item_group" : 5751,
+		"item_worth" : 1
+	},
+	{
+		"item_ID" : 6533,
+		"item_name" : "Coral Crystal",
+		"item_type" : "Alchemy",
+		"item_group" : 6533,
+		"item_worth" : 1
+	},
+	{
+		"item_ID" : 6601,
+		"item_name" : "Oil of Regeneration",
+		"item_type" : "Alchemy",
+		"item_group" : 6601,
+		"item_worth" : 1
+	},
+	{
+		"item_ID" : 6602,
+		"item_name" : "Oil of Storms",
+		"item_type" : "Alchemy",
+		"item_group" : 6602,
+		"item_worth" : 1
+	},
+	{
+		"item_ID" : 6603,
+		"item_name" : "Oil of Fortitude",
+		"item_type" : "Alchemy",
+		"item_group" : 6603,
+		"item_worth" : 1
+	},
+	{
+		"item_ID" : 6604,
+		"item_name" : "Oil of Corruption",
+		"item_type" : "Alchemy",
+		"item_group" : 6604,
+		"item_worth" : 1
+	},
+	{
+		"item_ID" : 6605,
+		"item_name" : "Oil of Tranquility",
+		"item_type" : "Alchemy",
+		"item_group" : 6605,
+		"item_worth" : 1
+	},
+	{
+		"item_ID" : 6606,
+		"item_name" : "Oil of the Abyss",
+		"item_type" : "Alchemy",
+		"item_group" : 6606,
+		"item_worth" : 1
+	},
+	{
+		"item_ID" : 6651,
+		"item_name" : "Distilled Water",
+		"item_type" : "Alchemy, Cooking",
+		"item_group" : 1001,
+		"item_worth" : 2
+	},
+	{
+		"item_ID" : 6656,
+		"item_name" : "Purified Water",
+		"item_type" : "Alchemy, Cooking",
+		"item_group" : 1001,
+		"item_worth" : 1
+	},
+	{
+		"item_ID" : 7001,
+		"item_name" : "Wheat",
+		"item_type" : "Cooking",
+		"item_group" : 6001,
+		"item_worth" : 1
+	},
+	{
+		"item_ID" : 7002,
+		"item_name" : "Barley",
+		"item_type" : "Cooking",
+		"item_group" : 6001,
+		"item_worth" : 2
+	},
+	{
+		"item_ID" : 7003,
+		"item_name" : "Potato",
+		"item_type" : "Cooking",
+		"item_group" : 6001,
+		"item_worth" : 2
+	},
+	{
+		"item_ID" : 7004,
+		"item_name" : "Sweet Potato",
+		"item_type" : "Cooking",
+		"item_group" : 6001,
+		"item_worth" : 2
+	},
+	{
+		"item_ID" : 7005,
+		"item_name" : "Corn",
+		"item_type" : "Cooking",
+		"item_group" : 6001,
+		"item_worth" : 2
+	},
+	{
+		"item_ID" : 7006,
+		"item_name" : "High-quality Wheat",
+		"item_type" : "Cooking",
+		"item_group" : 6001,
+		"item_worth" : 6
+	},
+	{
+		"item_ID" : 7007,
+		"item_name" : "High-quality Barley",
+		"item_type" : "Cooking",
+		"item_group" : 6001,
+		"item_worth" : 6
+	},
+	{
+		"item_ID" : 7008,
+		"item_name" : "High-quality Potato",
+		"item_type" : "Cooking",
+		"item_group" : 6001,
+		"item_worth" : 6
+	},
+	{
+		"item_ID" : 7009,
+		"item_name" : "High-quality Sweet Potato",
+		"item_type" : "Cooking",
+		"item_group" : 6001,
+		"item_worth" : 6
+	},
+	{
+		"item_ID" : 7010,
+		"item_name" : "High-quality Corn",
+		"item_type" : "Cooking",
+		"item_group" : 6001,
+		"item_worth" : 6
+	},
+	{
+		"item_ID" : 7011,
+		"item_name" : "Special Wheat",
+		"item_type" : "Cooking",
+		"item_group" : 6001,
+		"item_worth" : 36
+	},
+	{
+		"item_ID" : 7012,
+		"item_name" : "Special Barley",
+		"item_type" : "Cooking",
+		"item_group" : 6001,
+		"item_worth" : 36
+	},
+	{
+		"item_ID" : 7013,
+		"item_name" : "Special Potato",
+		"item_type" : "Cooking",
+		"item_group" : 6001,
+		"item_worth" : 36
+	},
+	{
+		"item_ID" : 7014,
+		"item_name" : "Special Sweet Potato",
+		"item_type" : "Cooking",
+		"item_group" : 6001,
+		"item_worth" : 36
+	},
+	{
+		"item_ID" : 7015,
+		"item_name" : "Special Corn",
+		"item_type" : "Cooking",
+		"item_group" : 6001,
+		"item_worth" : 36
+	},
+	{
+		"item_ID" : 7016,
+		"item_name" : "Date Palm",
+		"item_type" : "Cooking",
+		"item_group" : 7016,
+		"item_worth" : 1
+	},
+	{
+		"item_ID" : 7017,
+		"item_name" : "Pistachio",
+		"item_type" : "Cooking",
+		"item_group" : 7017,
+		"item_worth" : 1
+	},
+	{
+		"item_ID" : 7018,
+		"item_name" : "Fig",
+		"item_type" : "Cooking",
+		"item_group" : 7018,
+		"item_worth" : 1
+	},
+	{
+		"item_ID" : 7019,
+		"item_name" : "Star Anise",
+		"item_type" : "Cooking",
+		"item_group" : 7019,
+		"item_worth" : 1
+	},
+	{
+		"item_ID" : 7020,
+		"item_name" : "Nutmeg",
+		"item_type" : "Cooking",
+		"item_group" : 7020,
+		"item_worth" : 1
+	},
+	{
+		"item_ID" : 7021,
+		"item_name" : "Freekeh",
+		"item_type" : "Cooking",
+		"item_group" : 7021,
+		"item_worth" : 1
+	},
+	{
+		"item_ID" : 7022,
+		"item_name" : "Teff",
+		"item_type" : "Cooking",
+		"item_group" : 7022,
+		"item_worth" : 1
+	},
+	{
+		"item_ID" : 7026,
+		"item_name" : "Coconut",
+		"item_type" : "Cooking",
+		"item_group" : 7026,
+		"item_worth" : 1
+	},
+	{
+		"item_ID" : 7101,
+		"item_name" : "Wheat Flour",
+		"item_type" : "Cooking",
+		"item_group" : 6002,
+		"item_worth" : 1
+	},
+	{
+		"item_ID" : 7102,
+		"item_name" : "Barley Flour",
+		"item_type" : "Cooking",
+		"item_group" : 6002,
+		"item_worth" : 2
+	},
+	{
+		"item_ID" : 7103,
+		"item_name" : "Potato Flour",
+		"item_type" : "Cooking",
+		"item_group" : 6002,
+		"item_worth" : 2
+	},
+	{
+		"item_ID" : 7104,
+		"item_name" : "Sweet Potato Flour",
+		"item_type" : "Cooking",
+		"item_group" : 6002,
+		"item_worth" : 2
+	},
+	{
+		"item_ID" : 7105,
+		"item_name" : "Corn Flour",
+		"item_type" : "Cooking",
+		"item_group" : 6002,
+		"item_worth" : 2
+	},
+	{
+		"item_ID" : 7106,
+		"item_name" : "Teff Flour",
+		"item_type" : "Cooking",
+		"item_group" : 7106,
+		"item_worth" : 1
+	},
+	{
+		"item_ID" : 7201,
+		"item_name" : "Wheat Dough",
+		"item_type" : "Cooking",
+		"item_group" : 6003,
+		"item_worth" : 1
+	},
+	{
+		"item_ID" : 7202,
+		"item_name" : "Barley Dough",
+		"item_type" : "Cooking",
+		"item_group" : 6003,
+		"item_worth" : 4
+	},
+	{
+		"item_ID" : 7203,
+		"item_name" : "Potato Dough",
+		"item_type" : "Cooking",
+		"item_group" : 6003,
+		"item_worth" : 4
+	},
+	{
+		"item_ID" : 7204,
+		"item_name" : "Sweet Potato Dough",
+		"item_type" : "Cooking",
+		"item_group" : 6003,
+		"item_worth" : 4
+	},
+	{
+		"item_ID" : 7205,
+		"item_name" : "Corn Dough",
+		"item_type" : "Cooking",
+		"item_group" : 6003,
+		"item_worth" : 4
+	},
+	{
+		"item_ID" : 7206,
+		"item_name" : "Teff Flour Dough",
+		"item_type" : "Cooking",
+		"item_group" : 7206,
+		"item_worth" : 1
+	},
+	{
+		"item_ID" : 7301,
+		"item_name" : "Pepper",
+		"item_type" : "Cooking",
+		"item_group" : 6004,
+		"item_worth" : 1
+	},
+	{
+		"item_ID" : 7302,
+		"item_name" : "Garlic",
+		"item_type" : "Cooking",
+		"item_group" : 6005,
+		"item_worth" : 1
+	},
+	{
+		"item_ID" : 7303,
+		"item_name" : "Onion",
+		"item_type" : "Cooking",
+		"item_group" : 6006,
+		"item_worth" : 1
+	},
+	{
+		"item_ID" : 7304,
+		"item_name" : "Strawberry",
+		"item_type" : "Cooking",
+		"item_group" : 6007,
+		"item_worth" : 2
+	},
+	{
+		"item_ID" : 7305,
+		"item_name" : "Hot Pepper",
+		"item_type" : "Cooking",
+		"item_group" : 6008,
+		"item_worth" : 1
+	},
+	{
+		"item_ID" : 7306,
+		"item_name" : "Pumpkin",
+		"item_type" : "Cooking",
+		"item_group" : 6009,
+		"item_worth" : 1
+	},
+	{
+		"item_ID" : 7307,
+		"item_name" : "Grape",
+		"item_type" : "Cooking",
+		"item_group" : 6007,
+		"item_worth" : 2
+	},
+	{
+		"item_ID" : 7308,
+		"item_name" : "Sunflower",
+		"item_type" : "Cooking",
+		"item_group" : 6010,
+		"item_worth" : 2
+	},
+	{
+		"item_ID" : 7309,
+		"item_name" : "Olive",
+		"item_type" : "Cooking",
+		"item_group" : 6009,
+		"item_worth" : 1
+	},
+	{
+		"item_ID" : 7311,
+		"item_name" : "Tomato",
+		"item_type" : "Cooking",
+		"item_group" : 6009,
+		"item_worth" : 1
+	},
+	{
+		"item_ID" : 7312,
+		"item_name" : "Paprika",
+		"item_type" : "Cooking",
+		"item_group" : 6009,
+		"item_worth" : 1
+	},
+	{
+		"item_ID" : 7313,
+		"item_name" : "Apple",
+		"item_type" : "Cooking",
+		"item_group" : 6007,
+		"item_worth" : 1
+	},
+	{
+		"item_ID" : 7314,
+		"item_name" : "Cherry",
+		"item_type" : "Cooking",
+		"item_group" : 6007,
+		"item_worth" : 2
+	},
+	{
+		"item_ID" : 7315,
+		"item_name" : "Pear",
+		"item_type" : "Cooking",
+		"item_group" : 6007,
+		"item_worth" : 2
+	},
+	{
+		"item_ID" : 7316,
+		"item_name" : "Banana",
+		"item_type" : "Cooking",
+		"item_group" : 6007,
+		"item_worth" : 2
+	},
+	{
+		"item_ID" : 7317,
+		"item_name" : "Pineapple",
+		"item_type" : "Cooking",
+		"item_group" : 6007,
+		"item_worth" : 2
+	},
+	{
+		"item_ID" : 7318,
+		"item_name" : "Cabbage",
+		"item_type" : "Cooking",
+		"item_group" : 6009,
+		"item_worth" : 1
+	},
+	{
+		"item_ID" : 7319,
+		"item_name" : "Rose",
+		"item_type" : "Cooking",
+		"item_group" : 6010,
+		"item_worth" : 1
+	},
+	{
+		"item_ID" : 7320,
+		"item_name" : "Tulip",
+		"item_type" : "Cooking",
+		"item_group" : 6010,
+		"item_worth" : 2
+	},
+	{
+		"item_ID" : 7321,
+		"item_name" : "High-quality Strawberry",
+		"item_type" : "Cooking",
+		"item_group" : 6007,
+		"item_worth" : 12
+	},
+	{
+		"item_ID" : 7322,
+		"item_name" : "Special Strawberry",
+		"item_type" : "Cooking",
+		"item_group" : 6007,
+		"item_worth" : 72
+	},
+	{
+		"item_ID" : 7323,
+		"item_name" : "High-quality Pepper",
+		"item_type" : "Cooking",
+		"item_group" : 6004,
+		"item_worth" : 6
+	},
+	{
+		"item_ID" : 7324,
+		"item_name" : "High-quality Garlic",
+		"item_type" : "Cooking",
+		"item_group" : 6005,
+		"item_worth" : 6
+	},
+	{
+		"item_ID" : 7325,
+		"item_name" : "High-quality Onion",
+		"item_type" : "Cooking",
+		"item_group" : 6006,
+		"item_worth" : 6
+	},
+	{
+		"item_ID" : 7327,
+		"item_name" : "High-quality Hot Pepper",
+		"item_type" : "Cooking",
+		"item_group" : 6008,
+		"item_worth" : 6
+	},
+	{
+		"item_ID" : 7328,
+		"item_name" : "High-quality Pumpkin",
+		"item_type" : "Cooking",
+		"item_group" : 6009,
+		"item_worth" : 6
+	},
+	{
+		"item_ID" : 7329,
+		"item_name" : "High-quality Grape",
+		"item_type" : "Cooking",
+		"item_group" : 6007,
+		"item_worth" : 12
+	},
+	{
+		"item_ID" : 7330,
+		"item_name" : "High-quality Sunflower",
+		"item_type" : "Cooking",
+		"item_group" : 6010,
+		"item_worth" : 12
+	},
+	{
+		"item_ID" : 7331,
+		"item_name" : "High-quality Olive",
+		"item_type" : "Cooking",
+		"item_group" : 6009,
+		"item_worth" : 6
+	},
+	{
+		"item_ID" : 7333,
+		"item_name" : "High-quality Tomato",
+		"item_type" : "Cooking",
+		"item_group" : 6009,
+		"item_worth" : 6
+	},
+	{
+		"item_ID" : 7334,
+		"item_name" : "High-quality Paprika",
+		"item_type" : "Cooking",
+		"item_group" : 6009,
+		"item_worth" : 6
+	},
+	{
+		"item_ID" : 7335,
+		"item_name" : "Special Pepper",
+		"item_type" : "Cooking",
+		"item_group" : 6004,
+		"item_worth" : 36
+	},
+	{
+		"item_ID" : 7336,
+		"item_name" : "Special Garlic",
+		"item_type" : "Cooking",
+		"item_group" : 6005,
+		"item_worth" : 36
+	},
+	{
+		"item_ID" : 7337,
+		"item_name" : "Special Onion",
+		"item_type" : "Cooking",
+		"item_group" : 6006,
+		"item_worth" : 36
+	},
+	{
+		"item_ID" : 7339,
+		"item_name" : "Special Hot Pepper",
+		"item_type" : "Cooking",
+		"item_group" : 6008,
+		"item_worth" : 36
+	},
+	{
+		"item_ID" : 7340,
+		"item_name" : "Special Pumpkin",
+		"item_type" : "Cooking",
+		"item_group" : 6009,
+		"item_worth" : 36
+	},
+	{
+		"item_ID" : 7341,
+		"item_name" : "Special Grape",
+		"item_type" : "Cooking",
+		"item_group" : 6007,
+		"item_worth" : 72
+	},
+	{
+		"item_ID" : 7342,
+		"item_name" : "Special Sunflower",
+		"item_type" : "Cooking",
+		"item_group" : 6010,
+		"item_worth" : 72
+	},
+	{
+		"item_ID" : 7343,
+		"item_name" : "Special Olive",
+		"item_type" : "Cooking",
+		"item_group" : 6009,
+		"item_worth" : 36
+	},
+	{
+		"item_ID" : 7345,
+		"item_name" : "Special Tomato",
+		"item_type" : "Cooking",
+		"item_group" : 6009,
+		"item_worth" : 36
+	},
+	{
+		"item_ID" : 7346,
+		"item_name" : "Special Paprika",
+		"item_type" : "Cooking",
+		"item_group" : 6009,
+		"item_worth" : 36
+	},
+	{
+		"item_ID" : 7347,
+		"item_name" : "Aloe",
+		"item_type" : "Cooking",
+		"item_group" : 7347,
+		"item_worth" : 1
+	},
+	{
+		"item_ID" : 7348,
+		"item_name" : "Cinnamon",
+		"item_type" : "Cooking",
+		"item_group" : 7348,
+		"item_worth" : 1
+	},
+	{
+		"item_ID" : 7360,
+		"item_name" : "Citron",
+		"item_type" : "Cooking",
+		"item_group" : 7360,
+		"item_worth" : 1
+	},
+	{
+		"item_ID" : 7361,
+		"item_name" : "High-quality Citron",
+		"item_type" : "Cooking",
+		"item_group" : 7361,
+		"item_worth" : 1
+	},
+	{
+		"item_ID" : 7362,
+		"item_name" : "Special Citron",
+		"item_type" : "Cooking",
+		"item_group" : 7362,
+		"item_worth" : 1
+	},
+	{
+		"item_ID" : 7701,
+		"item_name" : "Wild Beehive",
+		"item_type" : "Alchemy, Cooking",
+		"item_group" : 6014,
+		"item_worth" : 1
+	},
+	{
+		"item_ID" : 7702,
+		"item_name" : "Cooking Honey",
+		"item_type" : "Alchemy, Cooking",
+		"item_group" : 6014,
+		"item_worth" : 2
+	},
+	{
+		"item_ID" : 7703,
+		"item_name" : "High-quality Cooking Honey",
+		"item_type" : "Alchemy, Cooking",
+		"item_group" : 6014,
+		"item_worth" : 5
+	},
+	{
+		"item_ID" : 7704,
+		"item_name" : "Top-quality Cooking Honey",
+		"item_type" : "Alchemy, Cooking",
+		"item_group" : 6014,
+		"item_worth" : 10
+	},
+	{
+		"item_ID" : 7901,
+		"item_name" : "Deer Meat",
+		"item_type" : "Cooking",
+		"item_group" : 6301,
+		"item_worth" : 2
+	},
+	{
+		"item_ID" : 7902,
+		"item_name" : "Lamb Meat",
+		"item_type" : "Cooking",
+		"item_group" : 6301,
+		"item_worth" : 2
+	},
+	{
+		"item_ID" : 7903,
+		"item_name" : "Fox Meat",
+		"item_type" : "Cooking",
+		"item_group" : 6301,
+		"item_worth" : 2
+	},
+	{
+		"item_ID" : 7904,
+		"item_name" : "Rhino Meat",
+		"item_type" : "Cooking",
+		"item_group" : 6301,
+		"item_worth" : 2
+	},
+	{
+		"item_ID" : 7905,
+		"item_name" : "Pork",
+		"item_type" : "Cooking",
+		"item_group" : 6301,
+		"item_worth" : 1
+	},
+	{
+		"item_ID" : 7906,
+		"item_name" : "Beef",
+		"item_type" : "Cooking",
+		"item_group" : 6301,
+		"item_worth" : 2
+	},
+	{
+		"item_ID" : 7907,
+		"item_name" : "Dinosaur Meat",
+		"item_type" : "Cooking",
+		"item_group" : 6302,
+		"item_worth" : 2
+	},
+	{
+		"item_ID" : 7908,
+		"item_name" : "Lizard Meat",
+		"item_type" : "Cooking",
+		"item_group" : 6302,
+		"item_worth" : 1
+	},
+	{
+		"item_ID" : 7909,
+		"item_name" : "Worm Meat",
+		"item_type" : "Cooking",
+		"item_group" : 6302,
+		"item_worth" : 2
+	},
+	{
+		"item_ID" : 7910,
+		"item_name" : "Raccoon Meat",
+		"item_type" : "Cooking",
+		"item_group" : 6301,
+		"item_worth" : 2
+	},
+	{
+		"item_ID" : 7911,
+		"item_name" : "Weasel Meat",
+		"item_type" : "Cooking",
+		"item_group" : 6301,
+		"item_worth" : 2
+	},
+	{
+		"item_ID" : 7912,
+		"item_name" : "Bear Meat",
+		"item_type" : "Cooking",
+		"item_group" : 6301,
+		"item_worth" : 2
+	},
+	{
+		"item_ID" : 7913,
+		"item_name" : "Wolf Meat",
+		"item_type" : "Cooking",
+		"item_group" : 6301,
+		"item_worth" : 2
+	},
+	{
+		"item_ID" : 7914,
+		"item_name" : "Waragon Meat",
+		"item_type" : "Cooking",
+		"item_group" : 6302,
+		"item_worth" : 4
+	},
+	{
+		"item_ID" : 7915,
+		"item_name" : "Cheetah Dragon Meat",
+		"item_type" : "Cooking",
+		"item_group" : 6302,
+		"item_worth" : 4
+	},
+	{
+		"item_ID" : 7916,
+		"item_name" : "Kuku Bird Meat",
+		"item_type" : "Cooking",
+		"item_group" : 6303,
+		"item_worth" : 2
+	},
+	{
+		"item_ID" : 7917,
+		"item_name" : "Flamingo Meat",
+		"item_type" : "Cooking",
+		"item_group" : 6303,
+		"item_worth" : 2
+	},
+	{
+		"item_ID" : 7918,
+		"item_name" : "Fragrant Jerky",
+		"item_type" : "Cooking",
+		"item_group" : 6018,
+		"item_worth" : 1
+	},
+	{
+		"item_ID" : 7919,
+		"item_name" : "Well-Dried Jerky",
+		"item_type" : "Cooking",
+		"item_group" : 6018,
+		"item_worth" : 5
+	},
+	{
+		"item_ID" : 7920,
+		"item_name" : "Rare Jerky",
+		"item_type" : "Cooking",
+		"item_group" : 6018,
+		"item_worth" : 10
+	},
+	{
+		"item_ID" : 7921,
+		"item_name" : "Chicken Meat",
+		"item_type" : "Cooking",
+		"item_group" : 6303,
+		"item_worth" : 1
+	},
+	{
+		"item_ID" : 7922,
+		"item_name" : "Snake Meat",
+		"item_type" : "Cooking",
+		"item_group" : 7922,
+		"item_worth" : 1
+	},
+	{
+		"item_ID" : 7923,
+		"item_name" : "Lion Meat",
+		"item_type" : "Cooking",
+		"item_group" : 7923,
+		"item_worth" : 1
+	},
+	{
+		"item_ID" : 7924,
+		"item_name" : "Scorpion Meat",
+		"item_type" : "Cooking",
+		"item_group" : 7924,
+		"item_worth" : 1
+	},
+	{
+		"item_ID" : 7925,
+		"item_name" : "Gazelle Meat",
+		"item_type" : "Cooking",
+		"item_group" : 6301,
+		"item_worth" : 2
+	},
+	{
+		"item_ID" : 7953,
+		"item_name" : "Bird Meat",
+		"item_type" : "Cooking",
+		"item_group" : 6303,
+		"item_worth" : 2
+	},
+	{
+		"item_ID" : 7954,
+		"item_name" : "Yak Meat",
+		"item_type" : "Cooking",
+		"item_group" : 7954,
+		"item_worth" : 1
+	},
+	{
+		"item_ID" : 7955,
+		"item_name" : "Marmot Meat",
+		"item_type" : "Cooking",
+		"item_group" : 7955,
+		"item_worth" : 1
+	},
+	{
+		"item_ID" : 7956,
+		"item_name" : "Llama Meat",
+		"item_type" : "Cooking",
+		"item_group" : 7956,
+		"item_worth" : 1
+	},
+	{
+		"item_ID" : 7957,
+		"item_name" : "Goat Meat",
+		"item_type" : "Cooking",
+		"item_group" : 6301,
+		"item_worth" : 2
+	},
+	{
+		"item_ID" : 7958,
+		"item_name" : "Ground Bird Meat",
+		"item_type" : "Cooking",
+		"item_group" : 7958,
+		"item_worth" : 1
+	},
+	{
+		"item_ID" : 8211,
+		"item_name" : "Squid",
+		"item_type" : "Cooking",
+		"item_group" : 8211,
+		"item_worth" : 1
+	},
+	{
+		"item_ID" : 8212,
+		"item_name" : "Octopus",
+		"item_type" : "Cooking",
+		"item_group" : 8212,
+		"item_worth" : 1
+	},
+	{
+		"item_ID" : 8213,
+		"item_name" : "Crab",
+		"item_type" : "Cooking",
+		"item_group" : 8213,
+		"item_worth" : 1
+	},
+	{
+		"item_ID" : 8214,
+		"item_name" : "Jellyfish",
+		"item_type" : "Cooking",
+		"item_group" : 8214,
+		"item_worth" : 1
+	},
+	{
+		"item_ID" : 8215,
+		"item_name" : "Shellfish",
+		"item_type" : "Cooking",
+		"item_group" : 8215,
+		"item_worth" : 1
+	},
+	{
+		"item_ID" : 8232,
+		"item_name" : "Seahorse",
+		"item_type" : "Cooking",
+		"item_group" : 8232,
+		"item_worth" : 1
+	},
+	{
+		"item_ID" : 8233,
+		"item_name" : "Starfish",
+		"item_type" : "Cooking",
+		"item_group" : 8233,
+		"item_worth" : 1
+	},
+	{
+		"item_ID" : 8244,
+		"item_name" : "Terrapin",
+		"item_type" : "Cooking",
+		"item_group" : 8244,
+		"item_worth" : 1
+	},
+	{
+		"item_ID" : 8246,
+		"item_name" : "Crawfish",
+		"item_type" : "Cooking",
+		"item_group" : 8246,
+		"item_worth" : 1
+	},
+	{
+		"item_ID" : 8334,
+		"item_name" : "Cuttlefish",
+		"item_type" : "Cooking",
+		"item_group" : 8334,
+		"item_worth" : 1
+	},
+	{
+		"item_ID" : 8376,
+		"item_name" : "Red Snow Crab",
+		"item_type" : "Cooking",
+		"item_group" : 8376,
+		"item_worth" : 1
+	},
+	{
+		"item_ID" : 8511,
+		"item_name" : "Dried Squid",
+		"item_type" : "Cooking",
+		"item_group" : 8511,
+		"item_worth" : 1
+	},
+	{
+		"item_ID" : 8512,
+		"item_name" : "Dried Octopus",
+		"item_type" : "Cooking",
+		"item_group" : 8512,
+		"item_worth" : 1
+	},
+	{
+		"item_ID" : 8513,
+		"item_name" : "Dried Crab",
+		"item_type" : "Cooking",
+		"item_group" : 8513,
+		"item_worth" : 1
+	},
+	{
+		"item_ID" : 8514,
+		"item_name" : "Dried Jellyfish",
+		"item_type" : "Cooking",
+		"item_group" : 8514,
+		"item_worth" : 1
+	},
+	{
+		"item_ID" : 8515,
+		"item_name" : "Dried Shellfish",
+		"item_type" : "Cooking",
+		"item_group" : 8515,
+		"item_worth" : 1
+	},
+	{
+		"item_ID" : 8532,
+		"item_name" : "Dried Seahorse",
+		"item_type" : "Cooking",
+		"item_group" : 8532,
+		"item_worth" : 1
+	},
+	{
+		"item_ID" : 8533,
+		"item_name" : "Dried Starfish",
+		"item_type" : "Cooking",
+		"item_group" : 8533,
+		"item_worth" : 1
+	},
+	{
+		"item_ID" : 8544,
+		"item_name" : "Dried Terrapin",
+		"item_type" : "Cooking",
+		"item_group" : 8544,
+		"item_worth" : 1
+	},
+	{
+		"item_ID" : 8546,
+		"item_name" : "Dried Crawfish",
+		"item_type" : "Cooking",
+		"item_group" : 8546,
+		"item_worth" : 1
+	},
+	{
+		"item_ID" : 8634,
+		"item_name" : "Dried Cuttlefish",
+		"item_type" : "Cooking",
+		"item_group" : 8634,
+		"item_worth" : 1
+	},
+	{
+		"item_ID" : 8664,
+		"item_name" : "Dried Red Snow Crab",
+		"item_type" : "Cooking",
+		"item_group" : 8664,
+		"item_worth" : 1
+	},
+	{
+		"item_ID" : 9001,
+		"item_name" : "Salt",
+		"item_type" : "Alchemy, Cooking",
+		"item_group" : 6401,
+		"item_worth" : 1
+	},
+	{
+		"item_ID" : 9002,
+		"item_name" : "Sugar",
+		"item_type" : "Alchemy, Cooking",
+		"item_group" : 6402,
+		"item_worth" : 1
+	},
+	{
+		"item_ID" : 9003,
+		"item_name" : "White Sauce",
+		"item_type" : "Cooking",
+		"item_group" : 9003,
+		"item_worth" : 1
+	},
+	{
+		"item_ID" : 9004,
+		"item_name" : "Red Sauce",
+		"item_type" : "Cooking",
+		"item_group" : 9004,
+		"item_worth" : 1
+	},
+	{
+		"item_ID" : 9005,
+		"item_name" : "Leavening Agent",
+		"item_type" : "Cooking",
+		"item_group" : 9005,
+		"item_worth" : 1
+	},
+	{
+		"item_ID" : 9006,
+		"item_name" : "Dressing",
+		"item_type" : "Cooking",
+		"item_group" : 9006,
+		"item_worth" : 1
+	},
+	{
+		"item_ID" : 9007,
+		"item_name" : "Cooking Oil",
+		"item_type" : "Cooking",
+		"item_group" : 9007,
+		"item_worth" : 1
+	},
+	{
+		"item_ID" : 9008,
+		"item_name" : "Sun-Dried Salt",
+		"item_type" : "Alchemy, Cooking",
+		"item_group" : 6401,
+		"item_worth" : 16
+	},
+	{
+		"item_ID" : 9009,
+		"item_name" : "Raw Sugar",
+		"item_type" : "Alchemy, Cooking",
+		"item_group" : 6402,
+		"item_worth" : 16
+	},
+	{
+		"item_ID" : 9015,
+		"item_name" : "Olive Oil",
+		"item_type" : "Alchemy, Cooking",
+		"item_group" : 6407,
+		"item_worth" : 1
+	},
+	{
+		"item_ID" : 9016,
+		"item_name" : "Deep Frying Oil",
+		"item_type" : "Alchemy, Cooking",
+		"item_group" : 6407,
+		"item_worth" : 1
+	},
+	{
+		"item_ID" : 9017,
+		"item_name" : "Cooking Wine",
+		"item_type" : "Cooking",
+		"item_group" : 7364,
+		"item_worth" : 1
+	},
+	{
+		"item_ID" : 9018,
+		"item_name" : "Base Sauce",
+		"item_type" : "Cooking",
+		"item_group" : 9018,
+		"item_worth" : 1
+	},
+	{
+		"item_ID" : 9021,
+		"item_name" : "Corn Oil",
+		"item_type" : "Cooking",
+		"item_group" : 9021,
+		"item_worth" : 1
+	},
+	{
+		"item_ID" : 9022,
+		"item_name" : "Cottonseed Oil",
+		"item_type" : "Cooking",
+		"item_group" : 9022,
+		"item_worth" : 1
+	},
+	{
+		"item_ID" : 9023,
+		"item_name" : "Matsul",
+		"item_type" : "Cooking",
+		"item_group" : 7364,
+		"item_worth" : 1
+	},
+	{
+		"item_ID" : 9024,
+		"item_name" : "Spring Water",
+		"item_type" : "Cooking",
+		"item_group" : 9024,
+		"item_worth" : 1
+	},
+	{
+		"item_ID" : 9057,
+		"item_name" : "Essence of Liquor",
+		"item_type" : "Alchemy, Cooking",
+		"item_group" : 9057,
+		"item_worth" : 1
+	},
+	{
+		"item_ID" : 9059,
+		"item_name" : "Mineral Water",
+		"item_type" : "Alchemy, Cooking",
+		"item_group" : 1001,
+		"item_worth" : 3
+	},
+	{
+		"item_ID" : 9061,
+		"item_name" : "Cream",
+		"item_type" : "Cooking",
+		"item_group" : 9061,
+		"item_worth" : 1
+	},
+	{
+		"item_ID" : 9062,
+		"item_name" : "Cheese",
+		"item_type" : "Cooking",
+		"item_group" : 9062,
+		"item_worth" : 1
+	},
+	{
+		"item_ID" : 9063,
+		"item_name" : "Butter",
+		"item_type" : "Cooking",
+		"item_group" : 9063,
+		"item_worth" : 1
+	},
+	{
+		"item_ID" : 9064,
+		"item_name" : "Egg",
+		"item_type" : "Cooking",
+		"item_group" : 9064,
+		"item_worth" : 1
+	},
+	{
+		"item_ID" : 9065,
+		"item_name" : "Milk",
+		"item_type" : "Cooking",
+		"item_group" : 9065,
+		"item_worth" : 1
+	},
+	{
+		"item_ID" : 9066,
+		"item_name" : "Vinegar",
+		"item_type" : "Cooking",
+		"item_group" : 9066,
+		"item_worth" : 1
+	},
+	{
+		"item_ID" : 9069,
+		"item_name" : "Translucent Ice",
+		"item_type" : "Cooking",
+		"item_group" : 9069,
+		"item_worth" : 1
+	},
+	{
+		"item_ID" : 9072,
+		"item_name" : "Perilla Oil",
+		"item_type" : "Cooking",
+		"item_group" : 9072,
+		"item_worth" : 1
+	},
+	{
+		"item_ID" : 9073,
+		"item_name" : "Bean Sprouts",
+		"item_type" : "Cooking",
+		"item_group" : 9073,
+		"item_worth" : 1
+	},
+	{
+		"item_ID" : 9075,
+		"item_name" : "Soy Sauce",
+		"item_type" : "Cooking",
+		"item_group" : 9075,
+		"item_worth" : 1
+	},
+	{
+		"item_ID" : 9076,
+		"item_name" : "Soybean Paste",
+		"item_type" : "Cooking",
+		"item_group" : 9076,
+		"item_worth" : 1
+	},
+	{
+		"item_ID" : 9077,
+		"item_name" : "Red Pepper Powder",
+		"item_type" : "Cooking",
+		"item_group" : 9077,
+		"item_worth" : 1
+	},
+	{
+		"item_ID" : 9080,
+		"item_name" : "Red Bean",
+		"item_type" : "Cooking",
+		"item_group" : 9080,
+		"item_worth" : 1
+	},
+	{
+		"item_ID" : 9082,
+		"item_name" : "Buckwheat",
+		"item_type" : "Cooking",
+		"item_group" : 9082,
+		"item_worth" : 1
+	},
+	{
+		"item_ID" : 9083,
+		"item_name" : "Mungbean",
+		"item_type" : "Cooking",
+		"item_group" : 9083,
+		"item_worth" : 1
+	},
+	{
+		"item_ID" : 9201,
+		"item_name" : "Fruit Wine",
+		"item_type" : "Cooking",
+		"item_group" : 6501,
+		"item_worth" : 1
+	},
+	{
+		"item_ID" : 9202,
+		"item_name" : "Pickled Vegetables",
+		"item_type" : "Cooking",
+		"item_group" : 6502,
+		"item_worth" : 1
+	},
+	{
+		"item_ID" : 9203,
+		"item_name" : "Cheese Gratin",
+		"item_type" : "Cooking",
+		"item_group" : 6503,
+		"item_worth" : 1
+	},
+	{
+		"item_ID" : 9206,
+		"item_name" : "Honey Wine",
+		"item_type" : "Cooking",
+		"item_group" : 6508,
+		"item_worth" : 1
+	},
+	{
+		"item_ID" : 9213,
+		"item_name" : "Beer",
+		"item_type" : "Cooking",
+		"item_group" : 6507,
+		"item_worth" : 1
+	},
+	{
+		"item_ID" : 9214,
+		"item_name" : "Teff Bread",
+		"item_type" : "Cooking",
+		"item_group" : 6581,
+		"item_worth" : 1
+	},
+	{
+		"item_ID" : 9215,
+		"item_name" : "Freekeh Snake Stew",
+		"item_type" : "Cooking",
+		"item_group" : 6582,
+		"item_worth" : 1
+	},
+	{
+		"item_ID" : 9216,
+		"item_name" : "Fig Pie",
+		"item_type" : "Cooking",
+		"item_group" : 6583,
+		"item_worth" : 1
+	},
+	{
+		"item_ID" : 9218,
+		"item_name" : "Teff Sandwich",
+		"item_type" : "Cooking",
+		"item_group" : 6585,
+		"item_worth" : 1
+	},
+	{
+		"item_ID" : 9219,
+		"item_name" : "Date Palm Wine",
+		"item_type" : "Cooking",
+		"item_group" : 6586,
+		"item_worth" : 1
+	},
+	{
+		"item_ID" : 9220,
+		"item_name" : "Couscous",
+		"item_type" : "Cooking",
+		"item_group" : 6587,
+		"item_worth" : 1
+	},
+	{
+		"item_ID" : 9241,
+		"item_name" : "Stir-Fried Vegetables",
+		"item_type" : "Cooking",
+		"item_group" : 6531,
+		"item_worth" : 1
+	},
+	{
+		"item_ID" : 9258,
+		"item_name" : "Fruit and Vegetable Salad",
+		"item_type" : "Cooking",
+		"item_group" : 6535,
+		"item_worth" : 1
+	},
+	{
+		"item_ID" : 9260,
+		"item_name" : "Soft Bread",
+		"item_type" : "Cooking",
+		"item_group" : 6537,
+		"item_worth" : 1
+	},
+	{
+		"item_ID" : 9261,
+		"item_name" : "Oatmeal",
+		"item_type" : "Cooking",
+		"item_group" : 6538,
+		"item_worth" : 1
+	},
+	{
+		"item_ID" : 9262,
+		"item_name" : "Makgeolli",
+		"item_type" : "Cooking",
+		"item_group" : 6539,
+		"item_worth" : 1
+	},
+	{
+		"item_ID" : 9263,
+		"item_name" : "Milk Tea",
+		"item_type" : "Cooking",
+		"item_group" : 6540,
+		"item_worth" : 1
+	},
+	{
+		"item_ID" : 9265,
+		"item_name" : "Meat Pie",
+		"item_type" : "Cooking",
+		"item_group" : 6542,
+		"item_worth" : 1
+	},
+	{
+		"item_ID" : 9266,
+		"item_name" : "Honeycomb Cookie",
+		"item_type" : "Cooking",
+		"item_group" : 6543,
+		"item_worth" : 1
+	},
+	{
+		"item_ID" : 9267,
+		"item_name" : "Ham Sandwich",
+		"item_type" : "Cooking",
+		"item_group" : 6544,
+		"item_worth" : 1
+	},
+	{
+		"item_ID" : 9268,
+		"item_name" : "Cheese Pie",
+		"item_type" : "Cooking",
+		"item_group" : 6545,
+		"item_worth" : 1
+	},
+	{
+		"item_ID" : 9270,
+		"item_name" : "Tea with Fine Scent",
+		"item_type" : "Cooking",
+		"item_group" : 6547,
+		"item_worth" : 1
+	},
+	{
+		"item_ID" : 9273,
+		"item_name" : "High-quality Cheese Pie",
+		"item_type" : "Cooking",
+		"item_group" : 6545,
+		"item_worth" : 6
+	},
+	{
+		"item_ID" : 9276,
+		"item_name" : "Refined Oatmeal",
+		"item_type" : "Cooking",
+		"item_group" : 6538,
+		"item_worth" : 6
+	},
+	{
+		"item_ID" : 9277,
+		"item_name" : "Smooth Milk Tea",
+		"item_type" : "Cooking",
+		"item_group" : 6540,
+		"item_worth" : 6
+	},
+	{
+		"item_ID" : 9279,
+		"item_name" : "Full-bodied Makgeolli",
+		"item_type" : "Cooking",
+		"item_group" : 6539,
+		"item_worth" : 6
+	},
+	{
+		"item_ID" : 9280,
+		"item_name" : "Luscious Fruit Wine",
+		"item_type" : "Cooking",
+		"item_group" : 6501,
+		"item_worth" : 6
+	},
+	{
+		"item_ID" : 9281,
+		"item_name" : "Sweet and Sour Pickled Vegetables",
+		"item_type" : "Cooking",
+		"item_group" : 6502,
+		"item_worth" : 6
+	},
+	{
+		"item_ID" : 9282,
+		"item_name" : "Chewy Cheese Gratin",
+		"item_type" : "Cooking",
+		"item_group" : 6503,
+		"item_worth" : 6
+	},
+	{
+		"item_ID" : 9283,
+		"item_name" : "Cold Draft Beer",
+		"item_type" : "Cooking",
+		"item_group" : 6507,
+		"item_worth" : 6
+	},
+	{
+		"item_ID" : 9284,
+		"item_name" : "Crispy Stir-Fried Vegetables",
+		"item_type" : "Cooking",
+		"item_group" : 6531,
+		"item_worth" : 6
+	},
+	{
+		"item_ID" : 9285,
+		"item_name" : "Fresh Fruit and Vegetable Salad",
+		"item_type" : "Cooking",
+		"item_group" : 6535,
+		"item_worth" : 6
+	},
+	{
+		"item_ID" : 9286,
+		"item_name" : "Moist Milk Bread",
+		"item_type" : "Cooking",
+		"item_group" : 6537,
+		"item_worth" : 6
+	},
+	{
+		"item_ID" : 9288,
+		"item_name" : "Lean Meat Pie",
+		"item_type" : "Cooking",
+		"item_group" : 6542,
+		"item_worth" : 6
+	},
+	{
+		"item_ID" : 9289,
+		"item_name" : "Crispy Honeycomb Cookie",
+		"item_type" : "Cooking",
+		"item_group" : 6543,
+		"item_worth" : 6
+	},
+	{
+		"item_ID" : 9290,
+		"item_name" : "High-quality Ham Sandwich",
+		"item_type" : "Cooking",
+		"item_group" : 6544,
+		"item_worth" : 6
+	},
+	{
+		"item_ID" : 9292,
+		"item_name" : "Tea with Strong Scent",
+		"item_type" : "Cooking",
+		"item_group" : 6547,
+		"item_worth" : 6
+	},
+	{
+		"item_ID" : 9295,
+		"item_name" : "Tangy Honey Wine",
+		"item_type" : "Cooking",
+		"item_group" : 6508,
+		"item_worth" : 6
+	},
+	{
+		"item_ID" : 9299,
+		"item_name" : "Spongy Teff Bread",
+		"item_type" : "Cooking",
+		"item_group" : 6581,
+		"item_worth" : 2
+	},
+	{
+		"item_ID" : 9300,
+		"item_name" : "Thick Freekeh Snake Stew",
+		"item_type" : "Cooking",
+		"item_group" : 6582,
+		"item_worth" : 2
+	},
+	{
+		"item_ID" : 9301,
+		"item_name" : "Sweet Fig Pie",
+		"item_type" : "Cooking",
+		"item_group" : 6583,
+		"item_worth" : 2
+	},
+	{
+		"item_ID" : 9303,
+		"item_name" : "Spicy Teff Sandwich",
+		"item_type" : "Cooking",
+		"item_group" : 6585,
+		"item_worth" : 2
+	},
+	{
+		"item_ID" : 9304,
+		"item_name" : "Mild Date Palm Wine",
+		"item_type" : "Cooking",
+		"item_group" : 6586,
+		"item_worth" : 2
+	},
+	{
+		"item_ID" : 9305,
+		"item_name" : "Classic Couscous",
+		"item_type" : "Cooking",
+		"item_group" : 6587,
+		"item_worth" : 2
+	},
+	{
+		"item_ID" : 9307,
+		"item_name" : "Coconut Cocktail",
+		"item_type" : "Cooking",
+		"item_group" : 6590,
+		"item_worth" : 1
+	},
+	{
+		"item_ID" : 9308,
+		"item_name" : "Coconut Pasta",
+		"item_type" : "Cooking",
+		"item_group" : 6591,
+		"item_worth" : 1
+	},
+	{
+		"item_ID" : 9309,
+		"item_name" : "Coconut Fried Fish",
+		"item_type" : "Cooking",
+		"item_group" : 6592,
+		"item_worth" : 1
+	},
+	{
+		"item_ID" : 9310,
+		"item_name" : "Chilled Coconut Cocktail",
+		"item_type" : "Cooking",
+		"item_group" : 6590,
+		"item_worth" : 6
+	},
+	{
+		"item_ID" : 9311,
+		"item_name" : "Sweet Coconut Pasta",
+		"item_type" : "Cooking",
+		"item_group" : 6591,
+		"item_worth" : 6
+	},
+	{
+		"item_ID" : 9312,
+		"item_name" : "Crispy Coconut Fried Fish",
+		"item_type" : "Cooking",
+		"item_group" : 6592,
+		"item_worth" : 6
+	},
+	{
+		"item_ID" : 9316,
+		"item_name" : "Rainbow Button Mushroom Sandwich",
+		"item_type" : "Cooking",
+		"item_group" : 6601,
+		"item_worth" : 1
+	},
+	{
+		"item_ID" : 9317,
+		"item_name" : "Sweet Rainbow Button Mushroom Sandwich",
+		"item_type" : "Cooking",
+		"item_group" : 6601,
+		"item_worth" : 6
+	},
+	{
+		"item_ID" : 9318,
+		"item_name" : "Stir-Fried Bracken",
+		"item_type" : "Cooking",
+		"item_group" : 6602,
+		"item_worth" : 1
+	},
+	{
+		"item_ID" : 9319,
+		"item_name" : "Savory Stir-Fried Bracken",
+		"item_type" : "Cooking",
+		"item_group" : 6602,
+		"item_worth" : 6
+	},
+	{
+		"item_ID" : 9325,
+		"item_name" : "Delotia Pudding",
+		"item_type" : "Cooking",
+		"item_group" : 6610,
+		"item_worth" : 1
+	},
+	{
+		"item_ID" : 9326,
+		"item_name" : "Blood Red Delotia Pudding",
+		"item_type" : "Cooking",
+		"item_group" : 6610,
+		"item_worth" : 6
+	},
+	{
+		"item_ID" : 9327,
+		"item_name" : "Delotia Juice",
+		"item_type" : "Cooking",
+		"item_group" : 6611,
+		"item_worth" : 1
+	},
+	{
+		"item_ID" : 9328,
+		"item_name" : "Chilled Delotia Juice",
+		"item_type" : "Cooking",
+		"item_group" : 6611,
+		"item_worth" : 6
+	},
+	{
+		"item_ID" : 9331,
+		"item_name" : "Stir-Fried Bird",
+		"item_type" : "Cooking",
+		"item_group" : 6613,
+		"item_worth" : 1
+	},
+	{
+		"item_ID" : 9332,
+		"item_name" : "Savory Stir-Fried Bird",
+		"item_type" : "Cooking",
+		"item_group" : 6613,
+		"item_worth" : 6
+	},
+	{
+		"item_ID" : 9333,
+		"item_name" : "Stir-Fried Bracken and Meat",
+		"item_type" : "Cooking",
+		"item_group" : 6614,
+		"item_worth" : 1
+	},
+	{
+		"item_ID" : 9334,
+		"item_name" : "Light Stir-Fried Bracken and Meat",
+		"item_type" : "Cooking",
+		"item_group" : 6614,
+		"item_worth" : 6
+	},
+	{
+		"item_ID" : 9335,
+		"item_name" : "Chicken Breast Salad",
+		"item_type" : "Cooking",
+		"item_group" : 6615,
+		"item_worth" : 1
+	},
+	{
+		"item_ID" : 9336,
+		"item_name" : "Fresh Chicken Breast Salad",
+		"item_type" : "Cooking",
+		"item_group" : 6615,
+		"item_worth" : 6
+	},
+	{
+		"item_ID" : 9339,
+		"item_name" : "Chanterelle Stew",
+		"item_type" : "Cooking",
+		"item_group" : 9339,
+		"item_worth" : 1
+	},
+	{
+		"item_ID" : 9341,
+		"item_name" : "Chanterelle and Potato Stew",
+		"item_type" : "Cooking",
+		"item_group" : 9341,
+		"item_worth" : 1
+	},
+	{
+		"item_ID" : 9343,
+		"item_name" : "Stir-Fried Chanterelle and Meat",
+		"item_type" : "Cooking",
+		"item_group" : 9343,
+		"item_worth" : 1
+	},
+	{
+		"item_ID" : 9345,
+		"item_name" : "Chanterelle Porridge",
+		"item_type" : "Cooking",
+		"item_group" : 9345,
+		"item_worth" : 1
+	},
+	{
+		"item_ID" : 9349,
+		"item_name" : "Chanterelle Risotto",
+		"item_type" : "Cooking",
+		"item_group" : 9349,
+		"item_worth" : 1
+	},
+	{
+		"item_ID" : 9350,
+		"item_name" : "Aromatic Chanterelle Risotto",
+		"item_type" : "Cooking",
+		"item_group" : 9350,
+		"item_worth" : 1
+	},
+	{
+		"item_ID" : 9351,
+		"item_name" : "Citron Cider",
+		"item_type" : "Cooking",
+		"item_group" : 9351,
+		"item_worth" : 1
+	},
+	{
+		"item_ID" : 9352,
+		"item_name" : "Sour Citron Cider",
+		"item_type" : "Cooking",
+		"item_group" : 9352,
+		"item_worth" : 1
+	},
+	{
+		"item_ID" : 9353,
+		"item_name" : "Citron Vinegar",
+		"item_type" : "Cooking",
+		"item_group" : 9353,
+		"item_worth" : 1
+	},
+	{
+		"item_ID" : 9355,
+		"item_name" : "Citron Juice",
+		"item_type" : "Cooking",
+		"item_group" : 9355,
+		"item_worth" : 1
+	},
+	{
+		"item_ID" : 9361,
+		"item_name" : "Pickled Citron and Onions",
+		"item_type" : "Cooking",
+		"item_group" : 9361,
+		"item_worth" : 1
+	},
+	{
+		"item_ID" : 9364,
+		"item_name" : "Single-brewed Mesima Tea",
+		"item_type" : "Cooking",
+		"item_group" : 9364,
+		"item_worth" : 1
+	},
+	{
+		"item_ID" : 9365,
+		"item_name" : "Twice-brewed Mesima Tea",
+		"item_type" : "Cooking",
+		"item_group" : 9365,
+		"item_worth" : 1
+	},
+	{
+		"item_ID" : 9367,
+		"item_name" : "Mesima Rice Wine",
+		"item_type" : "Cooking",
+		"item_group" : 9367,
+		"item_worth" : 1
+	},
+	{
+		"item_ID" : 9369,
+		"item_name" : "Eilton Sandwich",
+		"item_type" : "Cooking",
+		"item_group" : 9369,
+		"item_worth" : 1
+	},
+	{
+		"item_ID" : 9370,
+		"item_name" : "High-quality Eilton Sandwich",
+		"item_type" : "Cooking",
+		"item_group" : 9370,
+		"item_worth" : 1
+	},
+	{
+		"item_ID" : 9376,
+		"item_name" : "Fruit Sherbet",
+		"item_type" : "Cooking",
+		"item_group" : 9376,
+		"item_worth" : 1
+	},
+	{
+		"item_ID" : 9378,
+		"item_name" : "Citron Candy",
+		"item_type" : "Cooking",
+		"item_group" : 9378,
+		"item_worth" : 1
+	},
+	{
+		"item_ID" : 9401,
+		"item_name" : "Steak",
+		"item_type" : "Cooking",
+		"item_group" : 6548,
+		"item_worth" : 1
+	},
+	{
+		"item_ID" : 9402,
+		"item_name" : "Boiled Bird Eggs",
+		"item_type" : "Cooking",
+		"item_group" : 6549,
+		"item_worth" : 1
+	},
+	{
+		"item_ID" : 9403,
+		"item_name" : "Fried Bird",
+		"item_type" : "Cooking",
+		"item_group" : 6550,
+		"item_worth" : 1
+	},
+	{
+		"item_ID" : 9404,
+		"item_name" : "Meat Croquette",
+		"item_type" : "Cooking",
+		"item_group" : 6551,
+		"item_worth" : 1
+	},
+	{
+		"item_ID" : 9414,
+		"item_name" : "Meat Stew",
+		"item_type" : "Cooking",
+		"item_group" : 6558,
+		"item_worth" : 1
+	},
+	{
+		"item_ID" : 9416,
+		"item_name" : "Meat Pasta",
+		"item_type" : "Cooking",
+		"item_group" : 6560,
+		"item_worth" : 1
+	},
+	{
+		"item_ID" : 9417,
+		"item_name" : "Smoked Fish Steak",
+		"item_type" : "Cooking",
+		"item_group" : 6561,
+		"item_worth" : 1
+	},
+	{
+		"item_ID" : 9422,
+		"item_name" : "Dark Pudding",
+		"item_type" : "Cooking",
+		"item_group" : 6566,
+		"item_worth" : 1
+	},
+	{
+		"item_ID" : 9423,
+		"item_name" : "Fish Fillet Salad",
+		"item_type" : "Cooking",
+		"item_group" : 6567,
+		"item_worth" : 1
+	},
+	{
+		"item_ID" : 9425,
+		"item_name" : "Lean Meat Salad",
+		"item_type" : "Cooking",
+		"item_group" : 6569,
+		"item_worth" : 1
+	},
+	{
+		"item_ID" : 9427,
+		"item_name" : "Grilled Sausage",
+		"item_type" : "Cooking",
+		"item_group" : 6571,
+		"item_worth" : 1
+	},
+	{
+		"item_ID" : 9430,
+		"item_name" : "Juicy Steak",
+		"item_type" : "Cooking",
+		"item_group" : 6548,
+		"item_worth" : 2
+	},
+	{
+		"item_ID" : 9431,
+		"item_name" : "Smoked Sausage",
+		"item_type" : "Cooking",
+		"item_group" : 6571,
+		"item_worth" : 6
+	},
+	{
+		"item_ID" : 9435,
+		"item_name" : "Top Grade Lean Meat Salad",
+		"item_type" : "Cooking",
+		"item_group" : 6569,
+		"item_worth" : 6
+	},
+	{
+		"item_ID" : 9436,
+		"item_name" : "Appealing Boiled Bird Egg",
+		"item_type" : "Cooking",
+		"item_group" : 6549,
+		"item_worth" : 6
+	},
+	{
+		"item_ID" : 9437,
+		"item_name" : "Divine Fried Bird",
+		"item_type" : "Cooking",
+		"item_group" : 6550,
+		"item_worth" : 2
+	},
+	{
+		"item_ID" : 9438,
+		"item_name" : "Crispy Meat Croquette",
+		"item_type" : "Cooking",
+		"item_group" : 6551,
+		"item_worth" : 6
+	},
+	{
+		"item_ID" : 9442,
+		"item_name" : "Thick Meat Stew",
+		"item_type" : "Cooking",
+		"item_group" : 6558,
+		"item_worth" : 6
+	},
+	{
+		"item_ID" : 9444,
+		"item_name" : "Spaghetti alla Bolognese",
+		"item_type" : "Cooking",
+		"item_group" : 6560,
+		"item_worth" : 6
+	},
+	{
+		"item_ID" : 9445,
+		"item_name" : "Golden Smoked Fish Steak",
+		"item_type" : "Cooking",
+		"item_group" : 6561,
+		"item_worth" : 6
+	},
+	{
+		"item_ID" : 9448,
+		"item_name" : "Bloody Dark Pudding",
+		"item_type" : "Cooking",
+		"item_group" : 6566,
+		"item_worth" : 6
+	},
+	{
+		"item_ID" : 9449,
+		"item_name" : "Fresh Fish Fillet Salad",
+		"item_type" : "Cooking",
+		"item_group" : 6567,
+		"item_worth" : 6
+	},
+	{
+		"item_ID" : 9461,
+		"item_name" : "Grilled Scorpion",
+		"item_type" : "Cooking",
+		"item_group" : 6588,
+		"item_worth" : 1
+	},
+	{
+		"item_ID" : 9462,
+		"item_name" : "Crispy Grilled Scorpion",
+		"item_type" : "Cooking",
+		"item_group" : 6588,
+		"item_worth" : 6
+	},
+	{
+		"item_ID" : 9463,
+		"item_name" : "King of Jungle Hamburg",
+		"item_type" : "Cooking",
+		"item_group" : 6589,
+		"item_worth" : 1
+	},
+	{
+		"item_ID" : 9464,
+		"item_name" : "Jumbo King of Jungle Hamburg",
+		"item_type" : "Cooking",
+		"item_group" : 6589,
+		"item_worth" : 6
+	},
+	{
+		"item_ID" : 9471,
+		"item_name" : "Prawn Salad",
+		"item_type" : "Cooking",
+		"item_group" : 6594,
+		"item_worth" : 1
+	},
+	{
+		"item_ID" : 9472,
+		"item_name" : "Sweet and Sour Prawn Salad",
+		"item_type" : "Cooking",
+		"item_group" : 6594,
+		"item_worth" : 6
+	},
+	{
+		"item_ID" : 9473,
+		"item_name" : "Steamed Prawn",
+		"item_type" : "Cooking",
+		"item_group" : 6595,
+		"item_worth" : 1
+	},
+	{
+		"item_ID" : 9474,
+		"item_name" : "Hearty Steamed Prawn",
+		"item_type" : "Cooking",
+		"item_group" : 6595,
+		"item_worth" : 6
+	},
+	{
+		"item_ID" : 9475,
+		"item_name" : "Pan-Fried Oyster",
+		"item_type" : "Cooking",
+		"item_group" : 6596,
+		"item_worth" : 1
+	},
+	{
+		"item_ID" : 9476,
+		"item_name" : "Aromatic Pan-Fried Oyster",
+		"item_type" : "Cooking",
+		"item_group" : 6596,
+		"item_worth" : 6
+	},
+	{
+		"item_ID" : 9477,
+		"item_name" : "Butter-roasted Lobster",
+		"item_type" : "Cooking",
+		"item_group" : 6597,
+		"item_worth" : 1
+	},
+	{
+		"item_ID" : 9478,
+		"item_name" : "Golden Butter-roasted Lobster",
+		"item_type" : "Cooking",
+		"item_group" : 6597,
+		"item_worth" : 6
+	},
+	{
+		"item_ID" : 9483,
+		"item_name" : "Rainbow Button Mushroom Cheese Melt",
+		"item_type" : "Cooking",
+		"item_group" : 6600,
+		"item_worth" : 1
+	},
+	{
+		"item_ID" : 9484,
+		"item_name" : "Mild Rainbow Button Mushroom Cheese Melt",
+		"item_type" : "Cooking",
+		"item_group" : 6600,
+		"item_worth" : 6
+	},
+	{
+		"item_ID" : 9486,
+		"item_name" : "Ghormeh Sabzi",
+		"item_type" : "Cooking",
+		"item_group" : 6603,
+		"item_worth" : 1
+	},
+	{
+		"item_ID" : 9487,
+		"item_name" : "Thick Ghormeh Sabzi",
+		"item_type" : "Cooking",
+		"item_group" : 6603,
+		"item_worth" : 6
+	},
+	{
+		"item_ID" : 9488,
+		"item_name" : "Roast Marmot",
+		"item_type" : "Cooking",
+		"item_group" : 6604,
+		"item_worth" : 1
+	},
+	{
+		"item_ID" : 9489,
+		"item_name" : "Golden Roast Marmot",
+		"item_type" : "Cooking",
+		"item_group" : 6604,
+		"item_worth" : 6
+	},
+	{
+		"item_ID" : 9490,
+		"item_name" : "Skewered Llama Cheese Melt",
+		"item_type" : "Cooking",
+		"item_group" : 6605,
+		"item_worth" : 1
+	},
+	{
+		"item_ID" : 9491,
+		"item_name" : "Spicy Skewered Llama Cheese Melt",
+		"item_type" : "Cooking",
+		"item_group" : 6605,
+		"item_worth" : 6
+	},
+	{
+		"item_ID" : 9726,
+		"item_name" : "Blue Whale Meat",
+		"item_type" : "Cooking",
+		"item_group" : 9726,
+		"item_worth" : 1
+	},
+	{
+		"item_ID" : 9727,
+		"item_name" : "Great Ocean Oil",
+		"item_type" : "Alchemy",
+		"item_group" : 4519,
+		"item_worth" : 50
+	},
+	{
+		"item_ID" : 9729,
+		"item_name" : "Blue Whale Tendon",
+		"item_type" : "Alchemy",
+		"item_group" : 9729,
+		"item_worth" : 1
+	},
+	{
+		"item_ID" : 9731,
+		"item_name" : "Soft Whale Meat",
+		"item_type" : "Cooking",
+		"item_group" : 6305,
+		"item_worth" : 1
+	},
+	{
+		"item_ID" : 9732,
+		"item_name" : "Crocodile Meat",
+		"item_type" : "Cooking",
+		"item_group" : 6305,
+		"item_worth" : 2
+	},
+	{
+		"item_ID" : 9733,
+		"item_name" : "Shining Powder",
+		"item_type" : "Alchemy",
+		"item_group" : 9733,
+		"item_worth" : 1
+	},
+	{
+		"item_ID" : 9735,
+		"item_name" : "Fugitive Khalk's Horn",
+		"item_type" : "Cooking",
+		"item_group" : 9735,
+		"item_worth" : 1
+	},
+	{
+		"item_ID" : 9736,
+		"item_name" : "Fugitive Khalk's Skin",
+		"item_type" : "Alchemy",
+		"item_group" : 9736,
+		"item_worth" : 1
+	},
+	{
+		"item_ID" : 9741,
+		"item_name" : "Griffon Claw",
+		"item_type" : "Alchemy",
+		"item_group" : 9741,
+		"item_worth" : 1
+	},
+	{
+		"item_ID" : 9778,
+		"item_name" : "Thick Turo Blood",
+		"item_type" : "Alchemy",
+		"item_group" : 9778,
+		"item_worth" : 1
+	},
+	{
+		"item_ID" : 9779,
+		"item_name" : "Oil of Enchantment",
+		"item_type" : "Alchemy",
+		"item_group" : 9779,
+		"item_worth" : 1
+	},
+	{
+		"item_ID" : 9791,
+		"item_name" : "Essence of Insight",
+		"item_type" : "Alchemy",
+		"item_group" : 9791,
+		"item_worth" : 1
+	},
+	{
+		"item_ID" : 15001,
+		"item_name" : "Magic Crystal of Crimson Flame - Precision",
+		"item_type" : "Alchemy",
+		"item_group" : 3514,
+		"item_worth" : 1
+	},
+	{
+		"item_ID" : 15002,
+		"item_name" : "Magic Crystal of Crimson Flame - Power",
+		"item_type" : "Alchemy",
+		"item_group" : 3514,
+		"item_worth" : 2
+	},
+	{
+		"item_ID" : 15003,
+		"item_name" : "Magic Crystal of Crimson Flame - Carnage",
+		"item_type" : "Alchemy",
+		"item_group" : 3514,
+		"item_worth" : 2
+	},
+	{
+		"item_ID" : 15004,
+		"item_name" : "Magic Crystal of Crimson Flame - Carnage",
+		"item_type" : "Alchemy",
+		"item_group" : 3514,
+		"item_worth" : 2
+	},
+	{
+		"item_ID" : 15005,
+		"item_name" : "Magic Crystal of Crimson Flame - Carnage",
+		"item_type" : "Alchemy",
+		"item_group" : 3514,
+		"item_worth" : 2
+	},
+	{
+		"item_ID" : 15006,
+		"item_name" : "Magic Crystal of Abundance - Armor",
+		"item_type" : "Alchemy",
+		"item_group" : 3514,
+		"item_worth" : 2
+	},
+	{
+		"item_ID" : 15007,
+		"item_name" : "Magic Crystal of Abundance - Vigor",
+		"item_type" : "Alchemy",
+		"item_group" : 3514,
+		"item_worth" : 2
+	},
+	{
+		"item_ID" : 15008,
+		"item_name" : "Magic Crystal of Abundance - Patience",
+		"item_type" : "Alchemy",
+		"item_group" : 3514,
+		"item_worth" : 2
+	},
+	{
+		"item_ID" : 15009,
+		"item_name" : "Magic Crystal of Abundance - Healing",
+		"item_type" : "Alchemy",
+		"item_group" : 3514,
+		"item_worth" : 2
+	},
+	{
+		"item_ID" : 15010,
+		"item_name" : "Magic Crystal of Abundance - Resonance",
+		"item_type" : "Alchemy",
+		"item_group" : 3514,
+		"item_worth" : 2
+	},
+	{
+		"item_ID" : 15011,
+		"item_name" : "Magic Crystal of Nature - Swiftness",
+		"item_type" : "Alchemy",
+		"item_group" : 3514,
+		"item_worth" : 2
+	},
+	{
+		"item_ID" : 15012,
+		"item_name" : "Magic Crystal of Nature - Adamantine",
+		"item_type" : "Alchemy",
+		"item_group" : 3514,
+		"item_worth" : 2
+	},
+	{
+		"item_ID" : 15013,
+		"item_name" : "Magic Crystal of Nature - Ascension",
+		"item_type" : "Alchemy",
+		"item_group" : 3514,
+		"item_worth" : 2
+	},
+	{
+		"item_ID" : 15014,
+		"item_name" : "Magic Crystal of the Sun - Assault",
+		"item_type" : "Alchemy",
+		"item_group" : 3514,
+		"item_worth" : 2
+	},
+	{
+		"item_ID" : 15015,
+		"item_name" : "Magic Crystal of the Sun - Sturdiness",
+		"item_type" : "Alchemy",
+		"item_group" : 3514,
+		"item_worth" : 2
+	},
+	{
+		"item_ID" : 15016,
+		"item_name" : "Magic Crystal of the Sun - Valor",
+		"item_type" : "Alchemy",
+		"item_group" : 3514,
+		"item_worth" : 2
+	},
+	{
+		"item_ID" : 15017,
+		"item_name" : "Magic Crystal of Enchantment - Memory",
+		"item_type" : "Alchemy",
+		"item_group" : 3514,
+		"item_worth" : 2
+	},
+	{
+		"item_ID" : 15018,
+		"item_name" : "Magic Crystal of Enchantment - Intimidation",
+		"item_type" : "Alchemy",
+		"item_group" : 3514,
+		"item_worth" : 2
+	},
+	{
+		"item_ID" : 15019,
+		"item_name" : "Magic Crystal of Enchantment - Vision",
+		"item_type" : "Alchemy",
+		"item_group" : 3514,
+		"item_worth" : 2
+	},
+	{
+		"item_ID" : 15020,
+		"item_name" : "Magic Crystal of Enchantment - Agility",
+		"item_type" : "Alchemy",
+		"item_group" : 3514,
+		"item_worth" : 2
+	},
+	{
+		"item_ID" : 15021,
+		"item_name" : "Magic Crystal of Perfection",
+		"item_type" : "Alchemy",
+		"item_group" : 3514,
+		"item_worth" : 2
+	},
+	{
+		"item_ID" : 15022,
+		"item_name" : "Magic Crystal - Crimson Flame",
+		"item_type" : "Alchemy",
+		"item_group" : 3514,
+		"item_worth" : 2
+	},
+	{
+		"item_ID" : 15023,
+		"item_name" : "Magic Crystal - Enchantment",
+		"item_type" : "Alchemy",
+		"item_group" : 3514,
+		"item_worth" : 2
+	},
+	{
+		"item_ID" : 15024,
+		"item_name" : "Magic Crystal - Destruction",
+		"item_type" : "Alchemy",
+		"item_group" : 3514,
+		"item_worth" : 2
+	},
+	{
+		"item_ID" : 15025,
+		"item_name" : "Magic Crystal - Temptation",
+		"item_type" : "Alchemy",
+		"item_group" : 3514,
+		"item_worth" : 2
+	},
+	{
+		"item_ID" : 15026,
+		"item_name" : "Magic Crystal - Agony",
+		"item_type" : "Alchemy",
+		"item_group" : 3514,
+		"item_worth" : 2
+	},
+	{
+		"item_ID" : 15027,
+		"item_name" : "Magic Crystal of Nature - Descent",
+		"item_type" : "Alchemy",
+		"item_group" : 3514,
+		"item_worth" : 2
+	},
+	{
+		"item_ID" : 15028,
+		"item_name" : "Magic Crystal of Nature - Endurance",
+		"item_type" : "Alchemy",
+		"item_group" : 3514,
+		"item_worth" : 2
+	},
+	{
+		"item_ID" : 15029,
+		"item_name" : "Magic Crystal of the Sun - Ensnare",
+		"item_type" : "Alchemy",
+		"item_group" : 3514,
+		"item_worth" : 2
+	},
+	{
+		"item_ID" : 15030,
+		"item_name" : "Magic Crystal of the Sun - Boulder",
+		"item_type" : "Alchemy",
+		"item_group" : 3514,
+		"item_worth" : 2
+	},
+	{
+		"item_ID" : 15031,
+		"item_name" : "Magic Crystal of Enchantment - Experience",
+		"item_type" : "Alchemy",
+		"item_group" : 3514,
+		"item_worth" : 2
+	},
+	{
+		"item_ID" : 16001,
+		"item_name" : "Black Stone",
+		"item_type" : "Alchemy",
+		"item_group" : 16001,
+		"item_worth" : 1
+	},
+	{
+		"item_ID" : 16080,
+		"item_name" : "Cron Stone",
+		"item_type" : "Alchemy",
+		"item_group" : 16080,
+		"item_worth" : 1
+	},
+	{
+		"item_ID" : 42395,
+		"item_name" : "Askasha's Broken Magic Weapon I",
+		"item_type" : "Alchemy",
+		"item_group" : 42395,
+		"item_worth" : 1
+	},
+	{
+		"item_ID" : 42396,
+		"item_name" : "Askasha's Broken Magic Weapon II",
+		"item_type" : "Alchemy",
+		"item_group" : 42396,
+		"item_worth" : 1
+	},
+	{
+		"item_ID" : 42397,
+		"item_name" : "Askasha's Broken Magic Weapon III",
+		"item_type" : "Alchemy",
+		"item_group" : 42397,
+		"item_worth" : 1
+	},
+	{
+		"item_ID" : 42399,
+		"item_name" : "Ardan's Broken Jewel I",
+		"item_type" : "Alchemy",
+		"item_group" : 42399,
+		"item_worth" : 1
+	},
+	{
+		"item_ID" : 42400,
+		"item_name" : "Ardan's Broken Jewel II",
+		"item_type" : "Alchemy",
+		"item_group" : 42400,
+		"item_worth" : 1
+	},
+	{
+		"item_ID" : 42401,
+		"item_name" : "Ardan's Broken Jewel III",
+		"item_type" : "Alchemy",
+		"item_group" : 42401,
+		"item_worth" : 1
+	},
+	{
+		"item_ID" : 42411,
+		"item_name" : "Incomplete First Element",
+		"item_type" : "Alchemy",
+		"item_group" : 42411,
+		"item_worth" : 1
+	},
+	{
+		"item_ID" : 42412,
+		"item_name" : "Arenda's Special Synthesis Base",
+		"item_type" : "Alchemy",
+		"item_group" : 42412,
+		"item_worth" : 1
+	},
+	{
+		"item_ID" : 42435,
+		"item_name" : "Latent Boss Aura",
+		"item_type" : "Alchemy",
+		"item_group" : 42435,
+		"item_worth" : 1
+	},
+	{
+		"item_ID" : 42436,
+		"item_name" : "Nouver's Latent Aura",
+		"item_type" : "Alchemy",
+		"item_group" : 42436,
+		"item_worth" : 1
+	},
+	{
+		"item_ID" : 42437,
+		"item_name" : "Karanda's Latent Aura",
+		"item_type" : "Alchemy",
+		"item_group" : 42437,
+		"item_worth" : 1
+	},
+	{
+		"item_ID" : 42450,
+		"item_name" : "Kutum's Latent Aura",
+		"item_type" : "Alchemy",
+		"item_group" : 42450,
+		"item_worth" : 1
+	},
+	{
+		"item_ID" : 42495,
+		"item_name" : "Offin Tett's Light Fragment",
+		"item_type" : "Alchemy",
+		"item_group" : 42495,
+		"item_worth" : 1
+	},
+	{
+		"item_ID" : 44084,
+		"item_name" : "Sticky Liquid",
+		"item_type" : "Alchemy",
+		"item_group" : 44084,
+		"item_worth" : 1
+	},
+	{
+		"item_ID" : 44336,
+		"item_name" : "Alchemy Stone Shard",
+		"item_type" : "Alchemy",
+		"item_group" : 44336,
+		"item_worth" : 1
+	},
+	{
+		"item_ID" : 44461,
+		"item_name" : "Turo Heart",
+		"item_type" : "Alchemy",
+		"item_group" : 44461,
+		"item_worth" : 1
+	},
+	{
+		"item_ID" : 54003,
+		"item_name" : "Lump of Raw Sugar",
+		"item_type" : "Cooking",
+		"item_group" : 54003,
+		"item_worth" : 1
+	},
+	{
+		"item_ID" : 54004,
+		"item_name" : "High-quality Carrot",
+		"item_type" : "Cooking",
+		"item_group" : 54004,
+		"item_worth" : 1
+	},
+	{
+		"item_ID" : 54005,
+		"item_name" : "Special Carrot",
+		"item_type" : "Cooking",
+		"item_group" : 54005,
+		"item_worth" : 1
+	},
+	{
+		"item_ID" : 721009,
+		"item_name" : "Stabilized Magical Black Stone",
+		"item_type" : "Alchemy",
+		"item_group" : 721009,
+		"item_worth" : 1
+	},
+	{
+		"item_ID" : 721010,
+		"item_name" : "Cleansed Magical Black Stone",
+		"item_type" : "Alchemy",
+		"item_group" : 721010,
+		"item_worth" : 1
+	},
+	{
+		"item_ID" : 766104,
+		"item_name" : "Imperfect Lightstone of Fire",
+		"item_type" : "Alchemy",
+		"item_group" : 766104,
+		"item_worth" : 1
+	},
+	{
+		"item_ID" : 766105,
+		"item_name" : "Imperfect Lightstone of Earth",
+		"item_type" : "Alchemy",
+		"item_group" : 766105,
+		"item_worth" : 1
+	},
+	{
+		"item_ID" : 766106,
+		"item_name" : "Imperfect Lightstone of Wind",
+		"item_type" : "Alchemy",
+		"item_group" : 766106,
+		"item_worth" : 1
+	},
+	{
+		"item_ID" : 766107,
+		"item_name" : "Imperfect Lightstone of Flora",
+		"item_type" : "Alchemy",
+		"item_group" : 766107,
+		"item_worth" : 1
+	},
+	{
+		"item_ID" : 766108,
+		"item_name" : "Magical Lightstone Crystal",
+		"item_type" : "Alchemy",
+		"item_group" : 766108,
+		"item_worth" : 1
+	},
+	{
+		"item_ID" : 820104,
+		"item_name" : "Goosefoot Leaf",
+		"item_type" : "Cooking",
+		"item_group" : 820104,
+		"item_worth" : 1
+	},
+	{
+		"item_ID" : 820114,
+		"item_name" : "Jujube",
+		"item_type" : "Cooking",
+		"item_group" : 820114,
+		"item_worth" : 1
+	},
+	{
+		"item_ID" : 820116,
+		"item_name" : "Silver Apricot",
+		"item_type" : "Cooking",
+		"item_group" : 820116,
+		"item_worth" : 1
+	},
+	{
+		"item_ID" : 820117,
+		"item_name" : "Rice",
+		"item_type" : "Cooking",
+		"item_group" : 820117,
+		"item_worth" : 1
+	},
+	{
+		"item_ID" : 820118,
+		"item_name" : "Rice Flour",
+		"item_type" : "Cooking",
+		"item_group" : 820118,
+		"item_worth" : 1
+	},
+	{
+		"item_ID" : 820120,
+		"item_name" : "Napa Cabbage",
+		"item_type" : "Cooking",
+		"item_group" : 820120,
+		"item_worth" : 1
+	},
+	{
+		"item_ID" : 820121,
+		"item_name" : "High-quality Napa Cabbage",
+		"item_type" : "Cooking",
+		"item_group" : 820121,
+		"item_worth" : 1
+	},
+	{
+		"item_ID" : 820122,
+		"item_name" : "Special Napa Cabbage",
+		"item_type" : "Cooking",
+		"item_group" : 820122,
+		"item_worth" : 1
+	},
+	{
+		"item_ID" : 820123,
+		"item_name" : "Radish",
+		"item_type" : "Cooking",
+		"item_group" : 820123,
+		"item_worth" : 1
+	},
+	{
+		"item_ID" : 820124,
+		"item_name" : "High-quality Radish",
+		"item_type" : "Cooking",
+		"item_group" : 820124,
+		"item_worth" : 1
+	},
+	{
+		"item_ID" : 820125,
+		"item_name" : "Special Radish",
+		"item_type" : "Cooking",
+		"item_group" : 820125,
+		"item_worth" : 1
+	},
+	{
+		"item_ID" : 820126,
+		"item_name" : "Perilla",
+		"item_type" : "Cooking",
+		"item_group" : 820126,
+		"item_worth" : 1
+	},
+	{
+		"item_ID" : 820129,
+		"item_name" : "High-quality Rice",
+		"item_type" : "Cooking",
+		"item_group" : 820129,
+		"item_worth" : 1
+	},
+	{
+		"item_ID" : 820130,
+		"item_name" : "Special Rice",
+		"item_type" : "Cooking",
+		"item_group" : 820130,
+		"item_worth" : 1
+	},
+	{
+		"item_ID" : 820815,
+		"item_name" : "Cooked Rice",
+		"item_type" : "Cooking",
+		"item_group" : 820815,
+		"item_worth" : 1
+	},
+	{
+		"item_ID" : 820816,
+		"item_name" : "Steaming Cooked Rice",
+		"item_type" : "Cooking",
+		"item_group" : 820816,
+		"item_worth" : 1
+	},
+	{
+		"item_ID" : 820831,
+		"item_name" : "Nurungji",
+		"item_type" : "Cooking",
+		"item_group" : 820831,
+		"item_worth" : 1
+	},
+	{
+		"item_ID" : 820832,
+		"item_name" : "Crispy Nurungji",
+		"item_type" : "Cooking",
+		"item_group" : 820832,
+		"item_worth" : 1
+	},
+	{
+		"item_ID" : 820845,
+		"item_name" : "Garaetteok",
+		"item_type" : "Cooking",
+		"item_group" : 820845,
+		"item_worth" : 1
+	},
+	{
+		"item_ID" : 820909,
+		"item_name" : "White Truffle Mushroom",
+		"item_type" : "Alchemy",
+		"item_group" : 820909,
+		"item_worth" : 1
+	},
+	{
+		"item_ID" : 821255,
+		"item_name" : "Rusalka's Coral",
+		"item_type" : "Alchemy",
+		"item_group" : 821255,
+		"item_worth" : 1
+	}
+]}
