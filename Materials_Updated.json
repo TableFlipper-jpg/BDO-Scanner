@@ -921,8 +921,8 @@
 		"item_ID" : 5427,
 		"item_name" : "Big Arrow Mushroom",
 		"item_type" : "Alchemy",
-		"item_group" : 0,
-		"item_worth" : 3008
+		"item_group" : 3008,
+		"item_worth" : 6
 	},
 	{
 		"item_ID" : 5428,
