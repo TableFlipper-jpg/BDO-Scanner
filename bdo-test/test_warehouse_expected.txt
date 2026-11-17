@@ -1,0 +1,65 @@
+﻿# Expected contents of Screenshots/test_warehouse.png (380 x 466 crop of the market warehouse panel).
+# row column quantity name   (several acceptable names separated by |, quantity ? = don't check)
+1 1 213.3K Elixir of Fury
+1 2 69946 Elixir of Frenzy
+1 3 141.4K Elixir of Concentration
+1 4 124.3K Elixir of Destruction
+1 5 351 Fury Draught
+1 6 28734 Elixir of Endless Fury
+1 7 11075 Elixir of Endless Frenzy
+1 8 22664 Elixir of Advanced Concentration
+1 9 5952 Elixir of Lethal Destruction
+2 1 134.1K Defense Elixir
+2 2 136.5K Helix Elixir
+2 3 156.5K Elixir of Life
+2 4 225.9K Elixir of Endurance
+2 5 271 Adaptation Draught
+2 6 11699 Elixir of Steel Defense
+2 7 35578 Splendid Helix Elixir
+2 8 77766 Elixir of Strong Life
+2 9 63764 Elixir of Overwhelming Endurance
+3 1 88097 Elixir of Wind
+3 2 104.6K Elixir of Spells
+3 3 33752 Elixir of Shock
+3 4 44662 Elixir of Swiftness
+3 5 351 Potential Draught
+3 6 10126 Elixir of Flowing Wind
+3 7 52318 Elixir of Agile Spells
+3 8 33565 Elixir of Strong Shock
+3 9 47037 Elixir of Intrepid Swiftness
+4 1 12510 Elixir of Perforation
+4 2 84111 Elixir of Death
+4 3 141.8K Elixir of Draining
+4 4 27979 Grim Reaper's Elixir
+4 5 351 Corruption Draught
+4 6 46118 Elixir of Brutal Perforation
+4 7 32232 Brutal Death Elixir
+4 8 7856 Elixir of Strong Draining
+4 9 45102 Grim Soul Reaper's Elixir
+5 1 49709 Elixir of Assassination
+5 2 238.1K Elixir of Detection
+5 3 80797 Elixir of Carnage
+5 4 201.9K Elixir of Sky
+5 5 351 Berserk Draught
+5 6 30525 Elixir of Lethal Assassin
+5 7 17122 Elixir of Sharp Detection
+5 8 21977 Elixir of Brutal Carnage
+5 9 40462 Merciless Sky Elixir
+6 1 18 [Party] Harmony Draught - Demihuman
+6 2 7683 [Party] Harmony Draught - Human
+6 3 2012 [Party] Harmony Draught - Edania
+6 4 51 [Party] Harmony Draught - Kamasylvia
+6 5 32165 Harmony Draught
+6 6 69 Giant's Draught
+6 7 9 Beast's Draught
+6 8 11 Verdure Draught
+6 9 19 Unbridled Celerity Draught
+7 1 501 Elixir of Demihuman Hunt
+7 2 95387 Elixir of Human Hunt
+7 3 48489 Elixir of Edania
+7 4 18650 Griffon's Elixir
+7 5 1313 Elixir of Remarkable Will
+7 6 56 Elixir of Fierce Demihuman Hunt
+7 7 3507 Elixir of Perfect Human Hunt
+7 8 5730 Strong Elixir of Edania
+7 9 7184 Strong Griffon's Elixir

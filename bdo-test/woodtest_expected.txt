@@ -1,0 +1,92 @@
+# Expected contents of Screenshots/woodtest.png. Names: the scanner's own (every row is one consistent family), not confirmed in game.
+# row column quantity name   (name ? = not checked)
+1 1 1.0M Cedar Timber
+1 2 1.7M Birch Timber
+1 3 1.0M Fir Timber
+1 4 323 Snowfield Cedar Timber
+1 5 1.1M Thuja Timber
+1 6 32220 Caphras Tree Timber
+1 7 55509 Elder Tree Timber
+1 8 202.8K Rough Mud Crystal
+1 9 176.0K Rough Red Crystal
+2 1 100.1K Cedar Plank
+2 2 145.0K Birch Plank
+2 3 323.9K Fir Plank
+2 4 223.0K Snowfield Cedar Plank
+2 5 255.2K Thuja Plank
+2 6 219.4K Caphras Tree Plank
+2 7 248.7K Elder Tree Plank
+2 8 2 Mud Crystal
+2 9 549 Red Crystal
+3 1 13825 Cedar Plywood
+3 2 13236 Birch Plywood
+3 3 51242 Fir Plywood
+3 4 5956 Snowfield Cedar Plywood
+3 5 37396 Thuja Plywood
+3 6 3960 Caphras Tree Plywood
+3 7 9 Elder Tree Plywood
+3 8 1886 Rough Jade
+3 9 1525 Rough Obsidian Ore
+4 1 1.9M Maple Timber
+4 2 2.4M Pine Timber
+4 3 232.5K White Cedar Timber
+4 4 657.9K Acacia Timber
+4 5 322.1K Ash Timber
+4 6 202.3K Thornwood Timber
+4 7 6748 Palm Timber
+4 8 187.1K Jade
+4 9 140.6K Obsidian Ore
+5 1 263.5K Maple Plank
+5 2 439.9K Pine Plank
+5 3 14369 White Cedar Plank
+5 4 271.5K Acacia Plank
+5 5 378.1K Ash Plank
+5 6 5233 Thornwood Plank
+5 7 5051 Palm Plank
+5 8 64887 Rough Green Crystal
+5 9 1842 Rough Black Crystal
+6 1 17948 Maple Plywood
+6 2 76 Pine Plywood
+6 3 37 White Cedar Plywood
+6 4 8 Acacia Plywood
+6 5 19765 Ash Plywood
+6 6 209 Thornwood Plywood
+6 7 3751 Palm Plywood
+6 8 13694 Green Crystal
+6 9 9 Black Crystal
+7 1 70730 Vanadium Ore
+7 2 660.2K Titanium Ore
+7 3 1368 Platinum Ore
+7 4 599.2K Tin Ore
+7 5 5.1M Iron Ore
+7 6 2.0M Copper Ore
+7 7 949.1K Zinc Ore
+7 8 73572 Noc Ore
+7 9 10787 Nickel Ore
+8 1 620 Melted Vanadium Shard
+8 2 31632 Melted Titanium Shard
+8 3 58 Melted Platinum Shard
+8 4 79561 Melted Tin Shard
+8 5 11750 Melted Iron Shard
+8 6 375.6K Melted Copper Shard
+8 7 116.8K Melted Zinc Shard
+8 8 17987 Melted Noc Shard
+8 9 103 Melted Nickel Shard
+9 1 6537 Vanadium Ingot
+9 2 8297 Titanium Ingot
+9 3 2 Platinum Ingot
+9 4 489 Tin Ingot
+9 5 34973 Iron Ingot
+9 6 20189 Copper Ingot
+9 7 29586 Zinc Ingot
+9 8 178.2K Noc Ingot
+9 9 24 Nickel Ingot
+10 1 37 Pure Vanadium Crystal
+10 2 42 Pure Titanium Crystal
+10 3 12 Pure Platinum Crystal
+10 4 81 Pure Tin Crystal
+10 5 117 Pure Iron Crystal
+10 6 51 Pure Copper Crystal
+10 7 24 Pure Zinc Crystal
+10 8 101 Pure Noc Crystal
+10 9 6 Pure Nickel Crystal
